@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>text on the diary of KamekitiTamiko</title>
-    <link>kamekitiamiko.github.io/kamenora/tags/text/</link>
+    <link>kamekititamiko.github.io/kamenora/tags/text/</link>
     <description>Recent content in text on the diary of KamekitiTamiko</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
     <lastBuildDate>Sat, 09 Mar 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="kamekitiamiko.github.io/kamenora/tags/text/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="kamekititamiko.github.io/kamenora/tags/text/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Placeholder Text</title>
-      <link>kamekitiamiko.github.io/kamenora/travel/placeholder-text/</link>
+      <link>kamekititamiko.github.io/kamenora/travel/placeholder-text/</link>
       <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>kamekitiamiko.github.io/kamenora/travel/placeholder-text/</guid>
+      <guid>kamekititamiko.github.io/kamenora/travel/placeholder-text/</guid>
       <description>&lt;p&gt;Lorem est tota propiore conpellat pectoribus de
 pectora summo.&lt;/p&gt;</description>
     </item>

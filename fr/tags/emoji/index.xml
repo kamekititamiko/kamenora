@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>emoji on Hugo Future Imperfect Slim en français</title>
-    <link>kamekitiamiko.github.io/kamenora/fr/tags/emoji/</link>
+    <link>kamekititamiko.github.io/kamenora/fr/tags/emoji/</link>
     <description>Recent content in emoji on Hugo Future Imperfect Slim en français</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr</language>
     <lastBuildDate>Tue, 05 Mar 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="kamekitiamiko.github.io/kamenora/fr/tags/emoji/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="kamekititamiko.github.io/kamenora/fr/tags/emoji/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Emoji Support</title>
-      <link>kamekitiamiko.github.io/kamenora/fr/travel/emoji-support/</link>
+      <link>kamekititamiko.github.io/kamenora/fr/travel/emoji-support/</link>
       <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>kamekitiamiko.github.io/kamenora/fr/travel/emoji-support/</guid>
+      <guid>kamekititamiko.github.io/kamenora/fr/travel/emoji-support/</guid>
       <description>Emoji peut être activé dans un projet Hugo de plusieurs manières.
 La fonction [emojify] (https://gohugo.io/functions/emojify/) peut être appelée directement dans les modèles ou [Inline Shortcodes] (https://gohugo.io/templates/shortcode-templates/#inline- codes courts).
 Pour activer globalement emoji, définissez enableEmoji sur true dans la [configuration] de votre site (https://gohugo.io/getting-started/configuration/), puis vous pourrez taper des codes abrégés emoji directement dans les fichiers de contenu; par exemple.
