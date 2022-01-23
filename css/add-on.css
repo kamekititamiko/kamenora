@@ -4,3 +4,16 @@
   is an official part of the theme (ex. Pull Requests) should be included in main.css
   and follow the formatting and style given.
 */
+
+a.comment{
+    font-size: 18px;
+    margin: 8px;
+    text-decoration: underline;
+    color: gray;
+}
+
+.test {
+  display:inline-block;
+  text-align:center;
+  width:100%;
+}
