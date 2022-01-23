@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Cycling on the diary of KamekitiTamiko</title>
-    <link>kamekititamiko.github.io/kamenora/cycling/</link>
+    <link>https://kamekititamiko.github.io/kamenora/cycling/</link>
     <description>Recent content in Cycling on the diary of KamekitiTamiko</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
     <lastBuildDate>Tue, 05 Mar 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="kamekititamiko.github.io/kamenora/cycling/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://kamekititamiko.github.io/kamenora/cycling/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Emoji Support</title>
-      <link>kamekititamiko.github.io/kamenora/cycling/emoji-support/</link>
+      <link>https://kamekititamiko.github.io/kamenora/cycling/emoji-support/</link>
       <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>kamekititamiko.github.io/kamenora/cycling/emoji-support/</guid>
+      <guid>https://kamekititamiko.github.io/kamenora/cycling/emoji-support/</guid>
       <description>&lt;p&gt;Emoji can be enabled in a Hugo project in a number of ways.&lt;/p&gt;</description>
     </item>
     
