@@ -3,86 +3,6 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://kamekititamiko.github.io/kamenora/pt/</loc>
-    <lastmod>2019-02-28T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://kamekititamiko.github.io/kamenora/en/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://kamekititamiko.github.io/kamenora/fr/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pl"
-                href="https://kamekititamiko.github.io/kamenora/pl/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://kamekititamiko.github.io/kamenora/de/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://kamekititamiko.github.io/kamenora/es/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-cn"
-                href="https://kamekititamiko.github.io/kamenora/zh-cn/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-tw"
-                href="https://kamekititamiko.github.io/kamenora/zh-tw/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="https://kamekititamiko.github.io/kamenora/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="nl"
-                href="https://kamekititamiko.github.io/kamenora/nl/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt"
-                href="https://kamekititamiko.github.io/kamenora/pt/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://kamekititamiko.github.io/kamenora/pt/about/</loc>
-    <lastmod>2019-02-28T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="pl"
-                href="https://kamekititamiko.github.io/kamenora/pl/about/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://kamekititamiko.github.io/kamenora/fr/about/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="https://kamekititamiko.github.io/kamenora/about/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt"
-                href="https://kamekititamiko.github.io/kamenora/pt/about/"
-                />
-  </url>
-  
-  <url>
     <loc>https://kamekititamiko.github.io/kamenora/pt/categories/</loc>
     <xhtml:link
                 rel="alternate"
@@ -133,6 +53,60 @@
                 rel="alternate"
                 hreflang="pt"
                 href="https://kamekititamiko.github.io/kamenora/pt/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://kamekititamiko.github.io/kamenora/pt/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://kamekititamiko.github.io/kamenora/en/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://kamekititamiko.github.io/kamenora/fr/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pl"
+                href="https://kamekititamiko.github.io/kamenora/pl/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://kamekititamiko.github.io/kamenora/de/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://kamekititamiko.github.io/kamenora/es/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://kamekititamiko.github.io/kamenora/zh-cn/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-tw"
+                href="https://kamekititamiko.github.io/kamenora/zh-tw/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://kamekititamiko.github.io/kamenora/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="nl"
+                href="https://kamekititamiko.github.io/kamenora/nl/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="https://kamekititamiko.github.io/kamenora/pt/"
                 />
   </url>
   
