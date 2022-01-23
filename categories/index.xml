@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on the diary of KamekitiTamiko</title>
-    <link>https://hugo-future-imperfect-slim.netlify.app/categories/</link>
+    <link>kamekitiamiko.github.io/kamenora/categories/</link>
     <description>Recent content in Categories on the diary of KamekitiTamiko</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
     <lastBuildDate>Mon, 11 Mar 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://hugo-future-imperfect-slim.netlify.app/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="kamekitiamiko.github.io/kamenora/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>syntax</title>
-      <link>https://hugo-future-imperfect-slim.netlify.app/categories/syntax/</link>
+      <link>kamekitiamiko.github.io/kamenora/categories/syntax/</link>
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://hugo-future-imperfect-slim.netlify.app/categories/syntax/</guid>
+      <guid>kamekitiamiko.github.io/kamenora/categories/syntax/</guid>
       <description></description>
     </item>
     
     <item>
       <title>themes</title>
-      <link>https://hugo-future-imperfect-slim.netlify.app/categories/themes/</link>
+      <link>kamekitiamiko.github.io/kamenora/categories/themes/</link>
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://hugo-future-imperfect-slim.netlify.app/categories/themes/</guid>
+      <guid>kamekitiamiko.github.io/kamenora/categories/themes/</guid>
       <description></description>
     </item>
     
