@@ -164,28 +164,4 @@
                 />
   </url>
   
-  <url>
-    <loc>https://kamekititamiko.github.io/kamenora/zh-cn/contact/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://kamekititamiko.github.io/kamenora/de/contact/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://kamekititamiko.github.io/kamenora/es/contact/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="https://kamekititamiko.github.io/kamenora/contact/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-cn"
-                href="https://kamekititamiko.github.io/kamenora/zh-cn/contact/"
-                />
-  </url>
-  
 </urlset>

@@ -57,30 +57,6 @@
   </url>
   
   <url>
-    <loc>https://kamekititamiko.github.io/kamenora/es/contact/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://kamekititamiko.github.io/kamenora/de/contact/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-cn"
-                href="https://kamekititamiko.github.io/kamenora/zh-cn/contact/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="https://kamekititamiko.github.io/kamenora/contact/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://kamekititamiko.github.io/kamenora/es/contact/"
-                />
-  </url>
-  
-  <url>
     <loc>https://kamekititamiko.github.io/kamenora/es/tags/</loc>
     <xhtml:link
                 rel="alternate"
