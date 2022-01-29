@@ -363,7 +363,15 @@
   </url>
   
   <url>
+    <loc>https://kamekititamiko.github.io/kamenora/search/data.js</loc>
+  </url>
+  
+  <url>
     <loc>https://kamekititamiko.github.io/kamenora/contact/</loc>
+  </url>
+  
+  <url>
+    <loc>https://kamekititamiko.github.io/kamenora/search/</loc>
   </url>
   
 </urlset>
