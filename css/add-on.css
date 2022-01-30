@@ -10,3 +10,24 @@
   text-align:center;
   width:100%;
 }
+
+.map-wrapper {
+  max-width: 640px; /* 最大幅 */
+  min-width: 280px; /* 最小幅 */
+  margin: 20px 0;
+  padding: 4px;
+  border: 1px solid #CCC;  /* ボーダー（枠線） */
+}
+.googlemap {
+  position: relative;
+  padding-bottom: 56.25%; /* 縦横比を 16:9 */
+  height: 0;
+  overflow: hidden;
+}
+.googlemap iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
