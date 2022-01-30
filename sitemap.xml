@@ -1,56 +1,97 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-	
-	<sitemap>
-	   	<loc>https://kamekititamiko.github.io/kamenora/en/sitemap.xml</loc>
-		
-	</sitemap>
-	
-	<sitemap>
-	   	<loc>https://kamekititamiko.github.io/kamenora/fr/sitemap.xml</loc>
-		
-	</sitemap>
-	
-	<sitemap>
-	   	<loc>https://kamekititamiko.github.io/kamenora/pl/sitemap.xml</loc>
-		
-	</sitemap>
-	
-	<sitemap>
-	   	<loc>https://kamekititamiko.github.io/kamenora/pt/sitemap.xml</loc>
-		
-	</sitemap>
-	
-	<sitemap>
-	   	<loc>https://kamekititamiko.github.io/kamenora/de/sitemap.xml</loc>
-		
-	</sitemap>
-	
-	<sitemap>
-	   	<loc>https://kamekititamiko.github.io/kamenora/es/sitemap.xml</loc>
-		
-	</sitemap>
-	
-	<sitemap>
-	   	<loc>https://kamekititamiko.github.io/kamenora/zh-cn/sitemap.xml</loc>
-		
-	</sitemap>
-	
-	<sitemap>
-	   	<loc>https://kamekititamiko.github.io/kamenora/zh-tw/sitemap.xml</loc>
-		
-	</sitemap>
-	
-	<sitemap>
-	   	<loc>https://kamekititamiko.github.io/kamenora/ja/sitemap.xml</loc>
-		
-	   	<lastmod>2019-03-11T00:00:00+00:00</lastmod>
-		
-	</sitemap>
-	
-	<sitemap>
-	   	<loc>https://kamekititamiko.github.io/kamenora/nl/sitemap.xml</loc>
-		
-	</sitemap>
-	
-</sitemapindex>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://objective-bardeen-e63d98.netlify.app/about/</loc>
+    <lastmod>2021-01-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://objective-bardeen-e63d98.netlify.app/</loc>
+    <lastmod>2021-01-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://objective-bardeen-e63d98.netlify.app/categories/</loc>
+    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://objective-bardeen-e63d98.netlify.app/travel/markdown-syntax/</loc>
+    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://objective-bardeen-e63d98.netlify.app/categories/syntax/</loc>
+    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://objective-bardeen-e63d98.netlify.app/categories/themes/</loc>
+    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://objective-bardeen-e63d98.netlify.app/travel/</loc>
+    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://objective-bardeen-e63d98.netlify.app/tags/privacy/</loc>
+    <lastmod>2019-03-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://objective-bardeen-e63d98.netlify.app/travel/rich-content/</loc>
+    <lastmod>2019-03-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://objective-bardeen-e63d98.netlify.app/tags/shortcodes/</loc>
+    <lastmod>2019-03-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://objective-bardeen-e63d98.netlify.app/tags/</loc>
+    <lastmod>2019-03-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://objective-bardeen-e63d98.netlify.app/tags/markdown/</loc>
+    <lastmod>2019-03-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://objective-bardeen-e63d98.netlify.app/travel/placeholder-text/</loc>
+    <lastmod>2019-03-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://objective-bardeen-e63d98.netlify.app/tags/text/</loc>
+    <lastmod>2019-03-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://objective-bardeen-e63d98.netlify.app/tags/emoji/</loc>
+    <lastmod>2019-03-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://objective-bardeen-e63d98.netlify.app/travel/emoji-support/</loc>
+    <lastmod>2019-03-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://objective-bardeen-e63d98.netlify.app/search/data.js</loc>
+  </url>
+  
+  <url>
+    <loc>https://objective-bardeen-e63d98.netlify.app/contact/</loc>
+  </url>
+  
+  <url>
+    <loc>https://objective-bardeen-e63d98.netlify.app/search/</loc>
+  </url>
+  
+</urlset>

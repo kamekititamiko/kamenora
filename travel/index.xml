@@ -2,30 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Travel on The Note of KamekitiTamiko</title>
-    <link>https://kamekititamiko.github.io/kamenora/travel/</link>
+    <link>https://objective-bardeen-e63d98.netlify.app/travel/</link>
     <description>Recent content in Travel on The Note of KamekitiTamiko</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>ja</language>
     <lastBuildDate>Mon, 11 Mar 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://kamekititamiko.github.io/kamenora/travel/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://objective-bardeen-e63d98.netlify.app/travel/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Markdown Syntax Guide</title>
-      <link>https://kamekititamiko.github.io/kamenora/travel/markdown-syntax/</link>
+      <link>https://objective-bardeen-e63d98.netlify.app/travel/markdown-syntax/</link>
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://kamekititamiko.github.io/kamenora/travel/markdown-syntax/</guid>
+      <guid>https://objective-bardeen-e63d98.netlify.app/travel/markdown-syntax/</guid>
       <description>&lt;p&gt;This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Rich Content</title>
-      <link>https://kamekititamiko.github.io/kamenora/travel/rich-content/</link>
+      <link>https://objective-bardeen-e63d98.netlify.app/travel/rich-content/</link>
       <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://kamekititamiko.github.io/kamenora/travel/rich-content/</guid>
+      <guid>https://objective-bardeen-e63d98.netlify.app/travel/rich-content/</guid>
       <description>&lt;p&gt;下は&amp;quot;google-maps-location&amp;quot;の結果。施設名で表示させたい場所が表示させられる場合はlocationに施設名を記入。
 そうでなければ緯度経度を記入する。&lt;/p&gt;
 &lt;p&gt;&lt;div class=&#34;map-wrapper&#34;&gt;
@@ -116,20 +115,20 @@
     
     <item>
       <title>Placeholder Text</title>
-      <link>https://kamekititamiko.github.io/kamenora/travel/placeholder-text/</link>
+      <link>https://objective-bardeen-e63d98.netlify.app/travel/placeholder-text/</link>
       <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://kamekititamiko.github.io/kamenora/travel/placeholder-text/</guid>
+      <guid>https://objective-bardeen-e63d98.netlify.app/travel/placeholder-text/</guid>
       <description>&lt;p&gt;Lorem est tota propiore conpellat pectoribus de
 pectora summo.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Emoji Support</title>
-      <link>https://kamekititamiko.github.io/kamenora/travel/emoji-support/</link>
+      <link>https://objective-bardeen-e63d98.netlify.app/travel/emoji-support/</link>
       <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://kamekititamiko.github.io/kamenora/travel/emoji-support/</guid>
+      <guid>https://objective-bardeen-e63d98.netlify.app/travel/emoji-support/</guid>
       <description>&lt;p&gt;Emoji can be enabled in a Hugo project in a number of ways.&lt;/p&gt;</description>
     </item>
     

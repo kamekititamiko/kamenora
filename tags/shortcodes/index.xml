@@ -2,21 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>shortcodes on The Note of KamekitiTamiko</title>
-    <link>https://kamekititamiko.github.io/kamenora/tags/shortcodes/</link>
+    <link>https://objective-bardeen-e63d98.netlify.app/tags/shortcodes/</link>
     <description>Recent content in shortcodes on The Note of KamekitiTamiko</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>ja</language>
     <lastBuildDate>Sun, 10 Mar 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://kamekititamiko.github.io/kamenora/tags/shortcodes/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://objective-bardeen-e63d98.netlify.app/tags/shortcodes/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Rich Content</title>
-      <link>https://kamekititamiko.github.io/kamenora/travel/rich-content/</link>
+      <link>https://objective-bardeen-e63d98.netlify.app/travel/rich-content/</link>
       <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://kamekititamiko.github.io/kamenora/travel/rich-content/</guid>
+      <guid>https://objective-bardeen-e63d98.netlify.app/travel/rich-content/</guid>
       <description>&lt;p&gt;下は&amp;quot;google-maps-location&amp;quot;の結果。施設名で表示させたい場所が表示させられる場合はlocationに施設名を記入。
 そうでなければ緯度経度を記入する。&lt;/p&gt;
 &lt;p&gt;&lt;div class=&#34;map-wrapper&#34;&gt;
