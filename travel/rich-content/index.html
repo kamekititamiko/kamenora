@@ -478,6 +478,29 @@ window.addEventListener('DOMContentLoaded', () => {
 
 
 
+<div class='post'>
+<form id="my-form" action="/" name="sampleCommentForm" method="post" netlify-honeypot="bot-field" netlify>
+<p>コメントを書く</p>
+  <p>
+    <label>Name: <input type="text" name="name" /></label>
+  </p>
+  <p>
+    <label>Email(任意): <input type="email" name="email" /></label>
+  </p>
+  <p>
+    <label>Message: <textarea name="content"></textarea></label>
+  </p>
+  <p style="display:none;">
+    <label>Bot Field(ここに値が入るとスパム判定する): <input name="bot-field"/></label>
+  </p>
+  <div>
+    <input type="submit" value="Send" />
+    <p>※ コメントは承認されると表示されます</p>
+    <input type="hidden" name="path" value="index.html" />
+  </div>
+</form>
+</div>
+
     
   </article>
   <div class="pagination">
