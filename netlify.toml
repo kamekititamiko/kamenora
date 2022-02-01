@@ -1,6 +1,6 @@
 [build]
   functions = "functions/"
-  publish = "comment/"
+  publish = "docs/"
 
 [[plugins]]
   package = "netlify-plugin-form-submissions"
