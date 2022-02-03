@@ -373,6 +373,7 @@ Propoetides <strong>parte</strong>.</p>
   <p>承認されたコメント一覧</p>
   <ul id="approvalCommentsList"></ul>
 </div>
+<script src="//cdn.jsdelivr.net/npm/sweetalert2@11"></script>
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
 <script language="javascript" type="text/javascript">
 
@@ -382,11 +383,27 @@ $.getJSON(url, (json) => {
     if (json[i].data.path !== '\/travel\/placeholder-text\/index.html') {
       continue
     }
-    $('#approvalCommentsList').append(`<li>Name: ${json[i].data.name}, Message: ${json[i].data.content}</li>`)
+    $('#approvalCommentsList').append(`<li>Date: ${json[i].data.date},Name: ${json[i].data.name}, Message: ${json[i].data.content}</li>`)
   }
 })
 
-// 送信前に一言感謝
+// 日付付与
+const form = $(".comment-form")
+const dt = new Date()
+const date = dt.getFullYear()
+  + '年' + ('0' + (dt.getMonth() + 1)).slice(-2)
+  + '月' + ('0' + dt.getDate()).slice(-2)
+  + '日 ' + ('0' + dt.getHours()).slice(-2)
+  + '時' + ('0' + dt.getMinutes()).slice(-2)
+  + '分'
+
+$('<input>').attr({
+  'type': 'hidden',
+  'name': 'date',
+  'value': date
+}).appendTo(form);
+
+
 $("#my-form").submit(function(e) {
   alert("Thank you!");
 });
