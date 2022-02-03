@@ -520,7 +520,7 @@ $.getJSON(url, (json) => {
     if (json[i].data.path !== '\/travel\/markdown-syntax\/index.html') {
       continue
     }
-    $('#approvalCommentsList').append(`<li>お名前： ${json[i].data.name}, コメント： ${json[i].data.content}</li>`)
+    $('#approvalCommentsList').append(`<li>お名前： ${json[i].data.name}  コメント： ${json[i].data.content}</li>`)
   }
 })
 
