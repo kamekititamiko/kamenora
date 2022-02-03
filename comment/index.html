@@ -35,7 +35,7 @@
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
 <script language="javascript" type="text/javascript">
 // 承認されたコメント一覧を表示
-const url = '/_data/sampleApprovedComments_submissions.json'
+const url = 'comment/_data/sampleApprovedComments_submissions.json'
 $.getJSON(url, (json) => {
   for (let i = 0; i < json.length; i++) {
     if (json[i].data.path !== 'comment/index.html') {
