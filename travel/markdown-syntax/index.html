@@ -488,13 +488,13 @@ window.addEventListener('DOMContentLoaded', () => {
 <form id="my-form" action="/" name="sampleCommentForm" method="post" netlify-honeypot="bot-field" netlify>
 <p>コメントを書く</p>
   <p>
-    <label>Name: <input type="text" name="name" /></label>
+    <label>お名前: <input type="text" name="name" /></label>
   </p>
   <p>
     <label>Email(任意): <input type="email" name="email" /></label>
   </p>
   <p>
-    <label>Message: <textarea name="content"></textarea></label>
+    <label>コメント: <textarea name="content"></textarea></label>
   </p>
   <p style="display:none;">
     <label>Bot Field(ここに値が入るとスパム判定する): <input name="bot-field"/></label>
@@ -521,7 +521,7 @@ $.getJSON(url, (json) => {
     if (json[i].data.path !== '\/travel\/markdown-syntax\/index.html') {
       continue
     }
-    $('#approvalCommentsList').append(`<li>Date: ${json[i].data.date},Name: ${json[i].data.name}, Message: ${json[i].data.content}</li>`)
+    $('#approvalCommentsList').append(`<li>お名前: ${json[i].data.name}, コメント: ${json[i].data.content}</li>`)
   }
 })
 
