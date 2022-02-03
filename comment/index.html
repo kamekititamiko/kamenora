@@ -38,7 +38,7 @@
 const url = '/_data/sampleApprovedComments_submissions.json'
 $.getJSON(url, (json) => {
   for (let i = 0; i < json.length; i++) {
-    if (json[i].data.path !== 'index.html') {
+    if (json[i].data.path !== 'comment/index.html') {
       continue
     }
     $('#approvalCommentsList').append(`<li>Name: ${json[i].data.name}, Message: ${json[i].data.content}</li>`)
