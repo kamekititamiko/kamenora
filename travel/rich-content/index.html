@@ -514,7 +514,7 @@ $.getJSON(url, (json) => {
     if (json[i].data.path !== '\/travel\/rich-content\/index.html') {
       continue
     }
-    $('#approvalCommentsList').append(`<li>お名前　： ${json[i].data.name}<br>コメント： ${json[i].data.content}</li>`)
+    $('#approvalCommentsList').append(`<li>${json[i].data.date}お名前　： ${json[i].data.name}<br>コメント： ${json[i].data.content}</li>`)
   }
 })
 
@@ -536,6 +536,19 @@ $('<input>').attr({
 
 
 $("#my-form").submit(function(e) {
+  const form = $(".comment-form")
+  const dt = new Date()
+  const date = dt.getFullYear()
+  + '年' + ('0' + (dt.getMonth() + 1)).slice(-2)
+  + '月' + ('0' + dt.getDate()).slice(-2)
+  + '日 ' + ('0' + dt.getHours()).slice(-2)
+  + '時' + ('0' + dt.getMinutes()).slice(-2)
+  + '分'
+  $('<input>').attr({
+    'type': 'hidden',
+    'name': 'date',
+    'value': date
+  }).appendTo(form);
   alert("Thank you!");
 });
 </script>
