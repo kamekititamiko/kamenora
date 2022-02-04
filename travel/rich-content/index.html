@@ -518,23 +518,7 @@ $.getJSON(url, (json) => {
   }
 })
 
-// 日付付与
-const form = $(".comment-form")
-const dt = new Date()
-const date = dt.getFullYear()
-  + '年' + ('0' + (dt.getMonth() + 1)).slice(-2)
-  + '月' + ('0' + dt.getDate()).slice(-2)
-  + '日 ' + ('0' + dt.getHours()).slice(-2)
-  + '時' + ('0' + dt.getMinutes()).slice(-2)
-  + '分'
-
-$('<input>').attr({
-  'type': 'hidden',
-  'name': 'date',
-  'value': date
-}).appendTo(form);
-
-
+// 送信前に一言感謝
 $("#my-form").submit(function(e) {
   const form = $(".comment-form")
   const dt = new Date()
