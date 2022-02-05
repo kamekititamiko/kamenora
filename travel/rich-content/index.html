@@ -296,7 +296,8 @@ window.addEventListener('DOMContentLoaded', () => {
 </div>
 </div></p>
 <p>下は&quot;google-maps-search&quot;の結果</p>
-<div class="shortcode shortcode--google-maps">
+<div class="map-wrapper">
+<div class="googlemap">
 	<iframe
 		src='https://www.google.com/maps/embed/v1/search?key=AIzaSyBtbKjwZVMHvO_3Fe43f9kb4SoE9MaJPKA&q=35.30146028218654%2c%20135.1218591723768'
 		frameborder="0"
@@ -305,7 +306,9 @@ window.addEventListener('DOMContentLoaded', () => {
 		height='300'>
 	</iframe>
 </div>
-<div class="shortcode shortcode--google-maps">
+</div>
+<div class="map-wrapper">
+<div class="googlemap">
 	<iframe
 		src='https://www.google.com/maps/embed/v1/search?key=AIzaSyBtbKjwZVMHvO_3Fe43f9kb4SoE9MaJPKA&q=%e5%be%a1%e9%99%b5%e7%a5%9e%e7%a4%be'
 		frameborder="0"
@@ -314,7 +317,9 @@ window.addEventListener('DOMContentLoaded', () => {
 		height='300'>
 	</iframe>
 </div>
-<div class="shortcode shortcode--google-maps">
+</div>
+<div class="map-wrapper">
+<div class="googlemap">
 	<iframe
 		src='https://www.google.com/maps/embed/v1/search?key=AIzaSyBtbKjwZVMHvO_3Fe43f9kb4SoE9MaJPKA&q=%e3%81%af%e3%82%93%e3%81%98'
 		frameborder="0"
@@ -323,8 +328,10 @@ window.addEventListener('DOMContentLoaded', () => {
 		height='300'>
 	</iframe>
 </div>
+</div>
 <p>下は&quot;google-maps-pb&quot;の結果</p>
-<div class="shortcode shortcode--google-maps">
+<div class="map-wrapper">
+<div class="googlemap">
 	<iframe
 		src='https://www.google.com/maps/embed?pb=%211m18%211m12%211m3%211d5262.411434411603%212d135.12128699147485%213d35.29972681463194%212m3%211f0%212f0%213f0%213m2%211i1024%212i768%214f13.1%213m3%211m2%211s0x600002ed85e36f2b%253A0x8cd8f6e21a9b0545%212z5b6h6Z2I56We56S-%215e0%213m2%211sja%212sjp%214v1643529451312%215m2%211sja%212sjp'
 		frameborder="0"
@@ -335,8 +342,10 @@ window.addEventListener('DOMContentLoaded', () => {
                 loading="lazy"
 	</iframe>
 </div>
+</div>
 <p>下は&quot;google-maps-direction&quot;の結果
-<div class="shortcode shortcode--google-maps">
+<div class="map-wrapper">
+<div class="googlemap">
 	<iframe
 		src='https://www.google.com/maps/embed/v1/directions?key=AIzaSyBtbKjwZVMHvO_3Fe43f9kb4SoE9MaJPKA&origin=Nuernberg%20Bavaria&destination=Frankfurt%2c%20Hessen'
 		frameborder="0"
@@ -344,6 +353,7 @@ window.addEventListener('DOMContentLoaded', () => {
 		width='100%'
 		height='300px'>
 	</iframe>
+</div>
 </div></p>
 <p>Hugo ships with several <a href="https://gohugo.io/content-management/shortcodes/#use-hugo-s-built-in-shortcodes">Built-in Shortcodes</a> for rich content, along with a <a href="https://gohugo.io/about/hugo-and-gdpr/">Privacy Config</a> and a set of Simple Shortcodes that enable static and no-JS versions of various social media embeds.</p>
 <hr>
@@ -453,30 +463,6 @@ window.addEventListener('DOMContentLoaded', () => {
     </div>
     
       
-  <div class='post'>
-    <div id="disqus_thread"></div>
-<script type="application/javascript">
-    var disqus_config = function () {
-    
-    
-    
-    };
-    (function() {
-        if (["localhost", "127.0.0.1"].indexOf(window.location.hostname) != -1) {
-            document.getElementById('disqus_thread').innerHTML = 'Disqus comments not available by default when the website is previewed locally.';
-            return;
-        }
-        var d = document, s = d.createElement('script'); s.async = true;
-        s.src = '//' + "https-rmorita-stat-github-io" + '.disqus.com/embed.js';
-        s.setAttribute('data-timestamp', +new Date());
-        (d.head || d.body).appendChild(s);
-    })();
-</script>
-<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
-<a href="https://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
-  </div>
-
-
 
 <div class='post'>
 <form id="my-form" action="/" name="sampleCommentForm" method="post" netlify-honeypot="bot-field" netlify>

@@ -61,7 +61,8 @@
 &lt;/div&gt;
 &lt;/div&gt;&lt;/p&gt;
 &lt;p&gt;下は&amp;quot;google-maps-search&amp;quot;の結果&lt;/p&gt;
-&lt;div class=&#34;shortcode shortcode--google-maps&#34;&gt;
+&lt;div class=&#34;map-wrapper&#34;&gt;
+&lt;div class=&#34;googlemap&#34;&gt;
 	&lt;iframe
 		src=&#39;https://www.google.com/maps/embed/v1/search?key=AIzaSyBtbKjwZVMHvO_3Fe43f9kb4SoE9MaJPKA&amp;q=35.30146028218654%2c%20135.1218591723768&#39;
 		frameborder=&#34;0&#34;
@@ -70,7 +71,9 @@
 		height=&#39;300&#39;&gt;
 	&lt;/iframe&gt;
 &lt;/div&gt;
-&lt;div class=&#34;shortcode shortcode--google-maps&#34;&gt;
+&lt;/div&gt;
+&lt;div class=&#34;map-wrapper&#34;&gt;
+&lt;div class=&#34;googlemap&#34;&gt;
 	&lt;iframe
 		src=&#39;https://www.google.com/maps/embed/v1/search?key=AIzaSyBtbKjwZVMHvO_3Fe43f9kb4SoE9MaJPKA&amp;q=%e5%be%a1%e9%99%b5%e7%a5%9e%e7%a4%be&#39;
 		frameborder=&#34;0&#34;
@@ -79,7 +82,9 @@
 		height=&#39;300&#39;&gt;
 	&lt;/iframe&gt;
 &lt;/div&gt;
-&lt;div class=&#34;shortcode shortcode--google-maps&#34;&gt;
+&lt;/div&gt;
+&lt;div class=&#34;map-wrapper&#34;&gt;
+&lt;div class=&#34;googlemap&#34;&gt;
 	&lt;iframe
 		src=&#39;https://www.google.com/maps/embed/v1/search?key=AIzaSyBtbKjwZVMHvO_3Fe43f9kb4SoE9MaJPKA&amp;q=%e3%81%af%e3%82%93%e3%81%98&#39;
 		frameborder=&#34;0&#34;
@@ -88,8 +93,10 @@
 		height=&#39;300&#39;&gt;
 	&lt;/iframe&gt;
 &lt;/div&gt;
+&lt;/div&gt;
 &lt;p&gt;下は&amp;quot;google-maps-pb&amp;quot;の結果&lt;/p&gt;
-&lt;div class=&#34;shortcode shortcode--google-maps&#34;&gt;
+&lt;div class=&#34;map-wrapper&#34;&gt;
+&lt;div class=&#34;googlemap&#34;&gt;
 	&lt;iframe
 		src=&#39;https://www.google.com/maps/embed?pb=%211m18%211m12%211m3%211d5262.411434411603%212d135.12128699147485%213d35.29972681463194%212m3%211f0%212f0%213f0%213m2%211i1024%212i768%214f13.1%213m3%211m2%211s0x600002ed85e36f2b%253A0x8cd8f6e21a9b0545%212z5b6h6Z2I56We56S-%215e0%213m2%211sja%212sjp%214v1643529451312%215m2%211sja%212sjp&#39;
 		frameborder=&#34;0&#34;
@@ -100,8 +107,10 @@
                 loading=&#34;lazy&#34;
 	&lt;/iframe&gt;
 &lt;/div&gt;
+&lt;/div&gt;
 &lt;p&gt;下は&amp;quot;google-maps-direction&amp;quot;の結果
-&lt;div class=&#34;shortcode shortcode--google-maps&#34;&gt;
+&lt;div class=&#34;map-wrapper&#34;&gt;
+&lt;div class=&#34;googlemap&#34;&gt;
 	&lt;iframe
 		src=&#39;https://www.google.com/maps/embed/v1/directions?key=AIzaSyBtbKjwZVMHvO_3Fe43f9kb4SoE9MaJPKA&amp;origin=Nuernberg%20Bavaria&amp;destination=Frankfurt%2c%20Hessen&#39;
 		frameborder=&#34;0&#34;
@@ -109,6 +118,7 @@
 		width=&#39;100%&#39;
 		height=&#39;300px&#39;&gt;
 	&lt;/iframe&gt;
+&lt;/div&gt;
 &lt;/div&gt;&lt;/p&gt;
 &lt;p&gt;Hugo ships with several &lt;a href=&#34;https://gohugo.io/content-management/shortcodes/#use-hugo-s-built-in-shortcodes&#34;&gt;Built-in Shortcodes&lt;/a&gt; for rich content, along with a &lt;a href=&#34;https://gohugo.io/about/hugo-and-gdpr/&#34;&gt;Privacy Config&lt;/a&gt; and a set of Simple Shortcodes that enable static and no-JS versions of various social media embeds.&lt;/p&gt;</description>
     </item>
