@@ -2,10 +2,40 @@
 
 var data = [
   {
+    url: "https://objective-bardeen-e63d98.netlify.app/tags/",
+    title: "Tags",
+    date: "2021-02-05T00:00:00Z",
+    body: "Tags"
+  },
+  {
+    url: "https://objective-bardeen-e63d98.netlify.app/travel/",
+    title: "Travel",
+    date: "2021-02-05T00:00:00Z",
+    body: "Travel"
+  },
+  {
+    url: "https://objective-bardeen-e63d98.netlify.app/travel/shirahama/",
+    title: "お気に入りの場所・白浜について",
+    date: "2021-02-05T00:00:00Z",
+    body: "お気に入りの場所・白浜について 白浜（和歌山県田辺市白浜町）が好きで年1回くらいの頻度で訪れているのですが、ここでは白浜お気に入りスポットを紹介したいと思います。 cafeFAB ビートルズ好きのマスターが運営されているカフェです。 いつもバラエティー豊かなケーキが準備されています。クリームチーズのケーキがおいしかったです。 View this post on Instagram A post shared by cafeFAB (@cafefab1998) \r\r 円月島 円月島は波に浸食されて真ん中に穴があいた不思議な形の島です。夏の夕方に夕日がちょうどこの穴から顔を出したときの景色が余りにも有名ですね。 下の写真は戦前に撮られたのか？と思うほどガサガサしたモノクロ写真ですが、2021年の冬に撮影したものです。かなりクセのある特徴のフィルムで撮ったんです。 \r\r 臨海浦海水浴場 臨海浦海水浴場は、白浜の中心街から円月島を超え、さらに進んだところにあります。 静かな砂浜で、プライベートビーチのようです。 近くには下の写真のような奇岩があります。まわりは磯になっていて、ウニやカニがたくさんいます。また江戸時代に武器庫として使用された？といわれる長～い洞窟も付近にひっそりとあるので、探検気分を味わうこともできます。 \r\r 他にもおすすめの場所はありますが、今回は初めての投稿なので、この程度の紹介にしておいて、また別の機会に紹介したいと思います。"
+  },
+  {
+    url: "https://objective-bardeen-e63d98.netlify.app/tags/%E7%99%BD%E6%B5%9C/",
+    title: "白浜",
+    date: "2021-02-05T00:00:00Z",
+    body: "白浜"
+  },
+  {
+    url: "https://objective-bardeen-e63d98.netlify.app/travel/shirahama/shirahama/",
+    title: "私のお気に入りの場所・白浜について",
+    date: "2021-02-05T00:00:00Z",
+    body: "私のお気に入りの場所・白浜について Emoji can be enabled in a Hugo project in a number of ways. The emojify function can be called directly in templates or Inline Shortcodes. To enable emoji globally, set enableEmoji to true in your site’s configuration and then you can type emoji shorthand codes directly in content files; e.g. 🙈 🙈 🙉 🙉 🙊 🙊 The Emoji cheat sheet is a useful reference for emoji shorthand codes. N.B. The above steps enable Unicode Standard emoji characters and sequences in Hugo, however the rendering of these glyphs depends on the browser and the platform. To style the emoji you can either use a third party emoji font or a font stack; e.g. .emoji { font-family: Apple Color Emoji,Segoe UI Emoji,NotoColorEmoji,Segoe UI Symbol,Android Emoji,EmojiSymbols; }"
+  },
+  {
     url: "https://objective-bardeen-e63d98.netlify.app/about/",
     title: "About",
     date: "2021-01-30T00:00:00Z",
-    body: "About ▽Info 個人の趣味を発信しているサイトです。 現在のところ以下のようなカテゴリーでサイトを運営しています。 カテゴリーは随時追加していく予定です。 ▼Auther"
+    body: "About ▽Info 個人の趣味を発信しているサイトです。 現在のところ以下のようなカテゴリーでサイトを運営しています。 カテゴリーは随時追加していく予定です。 TRAVEL 所謂旅行記です。お気に入りの地域のスポットをまとめたりにも使います。これから旅行計画を立てようとしている方の参考になれば。 ▼Auther かめきちたみこです。 趣味は写真撮影、ロードバイクでのポタリング、環境音の録音など。"
   },
   {
     url: "https://objective-bardeen-e63d98.netlify.app/",
@@ -38,12 +68,6 @@ var data = [
     body: "themes"
   },
   {
-    url: "https://objective-bardeen-e63d98.netlify.app/travel/",
-    title: "Travel",
-    date: "2019-03-11T00:00:00Z",
-    body: "Travel"
-  },
-  {
     url: "https://objective-bardeen-e63d98.netlify.app/tags/privacy/",
     title: "privacy",
     date: "2019-03-10T00:00:00Z",
@@ -60,42 +84,6 @@ var data = [
     title: "shortcodes",
     date: "2019-03-10T00:00:00Z",
     body: "shortcodes"
-  },
-  {
-    url: "https://objective-bardeen-e63d98.netlify.app/tags/",
-    title: "Tags",
-    date: "2019-03-10T00:00:00Z",
-    body: "Tags"
-  },
-  {
-    url: "https://objective-bardeen-e63d98.netlify.app/tags/markdown/",
-    title: "markdown",
-    date: "2019-03-09T00:00:00Z",
-    body: "markdown"
-  },
-  {
-    url: "https://objective-bardeen-e63d98.netlify.app/travel/placeholder-text/",
-    title: "Placeholder Text",
-    date: "2019-03-09T00:00:00Z",
-    body: "Placeholder Text Lorem est tota propiore conpellat pectoribus de pectora summo. Redit teque digerit hominumque toris verebor lumina non cervice subde tollit usus habet Arctonque, furores quas nec ferunt. Quoque montibus nunc caluere tempus inhospita parcite confusaque translucet patri vestro qui optatis lumine cognoscere flos nubis! Fronde ipsamque patulos Dryopen deorum. Exierant elisi ambit vivere dedere Duce pollice Eris modo Spargitque ferrea quos palude Rursus nulli murmur; hastile inridet ut ab gravi sententia! Nomine potitus silentia flumen, sustinet placuit petis in dilapsa erat sunt. Atria tractus malis. Comas hunc haec pietate fetum procerum dixit Post torum vates letum Tiresia Flumen querellas Arcanaque montibus omnes Quidem et Vagus elidunt The Van de Graaf Canon Mane refeci capiebant unda mulcebat Victa caducifer, malo vulnere contra dicere aurato, ludit regale, voca! Retorsit colit est profanae esse virescere furit nec; iaculi matertera et visa est, viribus. Divesque creatis, tecta novat collumque vulnus est, parvas. Faces illo pepulere tempus adest. Tendit flamma, ab opes virum sustinet, sidus sequendo urbis. Iubar proles corpore raptos vero auctor imperium; sed et huic: manus caeli Lelegas tu lux. Verbis obstitit intus oblectamina fixis linguisque ausus sperare Echionides cornuaque tenent clausit possit. Omnia putatur. Praeteritae refert ausus; ferebant e primus lora nutat, vici quae mea ipse. Et iter nil spectatae vulnus haerentia iuste et exercebat, sui et. Eurytus Hector, materna ipsumque ut Politen, nec, nate, ignari, vernum cohaesit sequitur. Vel mitis temploque vocatus, inque alis, oculos nomen non silvis corpore coniunx ne displicet illa. Crescunt non unus, vidit visa quantum inmiti flumina mortis facto sic: undique a alios vincula sunt iactata abdita! Suspenderat ego fuit tendit: luna, ante urbem Propoetides parte."
-  },
-  {
-    url: "https://objective-bardeen-e63d98.netlify.app/tags/text/",
-    title: "text",
-    date: "2019-03-09T00:00:00Z",
-    body: "text"
-  },
-  {
-    url: "https://objective-bardeen-e63d98.netlify.app/tags/emoji/",
-    title: "emoji",
-    date: "2019-03-05T00:00:00Z",
-    body: "emoji"
-  },
-  {
-    url: "https://objective-bardeen-e63d98.netlify.app/travel/emoji-support/",
-    title: "Emoji Support",
-    date: "2019-03-05T00:00:00Z",
-    body: "Emoji Support Emoji can be enabled in a Hugo project in a number of ways. The emojify function can be called directly in templates or Inline Shortcodes. To enable emoji globally, set enableEmoji to true in your site’s configuration and then you can type emoji shorthand codes directly in content files; e.g. 🙈 🙈 🙉 🙉 🙊 🙊 The Emoji cheat sheet is a useful reference for emoji shorthand codes. N.B. The above steps enable Unicode Standard emoji characters and sequences in Hugo, however the rendering of these glyphs depends on the browser and the platform. To style the emoji you can either use a third party emoji font or a font stack; e.g. .emoji { font-family: Apple Color Emoji,Segoe UI Emoji,NotoColorEmoji,Segoe UI Symbol,Android Emoji,EmojiSymbols; }"
   },
   {
     url: "https://objective-bardeen-e63d98.netlify.app/search/data.js",

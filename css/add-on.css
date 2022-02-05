@@ -54,3 +54,14 @@ ul.comment li{
   padding: 0.5em;
   list-style-type: none!important;/*ポチ消す*/
 }
+
+/*
+写真の位置を調整する
+*/
+
+figure.left {
+    text-align: left;
+}
+figure.left img {
+    margin: 0 auto;
+}
