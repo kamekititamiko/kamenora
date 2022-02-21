@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>The Note of KamekitiTamiko</title>
-    <link>https://objective-bardeen-e63d98.netlify.app/</link>
-    <description>Recent content on The Note of KamekitiTamiko</description>
+    <title>京都 on The Note of KamekitiTamiko</title>
+    <link>https://objective-bardeen-e63d98.netlify.app/tags/%E4%BA%AC%E9%83%BD/</link>
+    <description>Recent content in 京都 on The Note of KamekitiTamiko</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sat, 30 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 19 Feb 2022 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://objective-bardeen-e63d98.netlify.app/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://objective-bardeen-e63d98.netlify.app/tags/%E4%BA%AC%E9%83%BD/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -45,51 +45,6 @@
   北山大橋からも賀茂川を撮影してみました。賀茂川を散歩している人たちもたくさんいました。河原に降り立って遊んでいる人もよく見かけます。
   冬の賀茂川Ⅱレンズ：Nikkor-S auto 50mm f2.0　カメラ：SONY αⅡ
   和菓子屋 仙寿堂 途中に寄り道した駄菓子屋さんです。栃餅が売ってあるのですが、連れ合いは一度も栃餅を食べたことがないようで、食べてみたい！ということで寄りました。</description>
-    </item>
-    
-    <item>
-      <title>【環境音】赤穂御崎・福浦海水浴場の波の音</title>
-      <link>https://objective-bardeen-e63d98.netlify.app/2021/02/akoemvironmentalsound/</link>
-      <pubDate>Sat, 13 Feb 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://objective-bardeen-e63d98.netlify.app/2021/02/akoemvironmentalsound/</guid>
-      <description>赤穂御崎の福浦海水浴場で録音した波の音をYOUTUBEにアップしたので、紹介します。
-勉強や読書のBGMとして使ってください。
-  撮影地付近の写真 ロードバイクで姫路駅から録音場所まで走ったのですが、起伏が激しく良い運動になりました。
-  坂越港フィルム：KODAK ULTRAMAX 400　レンズ：New Nikkor 50mm f2.0　カメラ：Nikomat FT2
-    大塚古墳フィルム：KODAK ULTRAMAX 400　レンズ：New Nikkor 50mm f2.0　カメラ：Nikomat FT2
-    赤穂御崎の福浦海水浴場フィルム：KODAK ULTRAMAX 400　レンズ：New Nikkor 50mm f2.0　カメラ：Nikomat FT2
-    赤穂駅フィルム：KODAK ULTRAMAX 400　レンズ：New Nikkor 50mm f2.0　カメラ：Nikomat FT2
-  </description>
-    </item>
-    
-    <item>
-      <title>About</title>
-      <link>https://objective-bardeen-e63d98.netlify.app/about/</link>
-      <pubDate>Sat, 30 Jan 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://objective-bardeen-e63d98.netlify.app/about/</guid>
-      <description>▽Info 個人の趣味を発信しているサイトです。 現在のところ以下のようなカテゴリーでサイトを運営しています。 カテゴリーは随時追加していく予定です。
- TRAVEL
-所謂旅行記です。お気に入りの地域のスポットをまとめたりにも使います。これから旅行計画を立てようとしている方の参考になれば。  ▼Auther かめきちたみこです。 趣味は写真撮影、ロードバイクでのポタリング、環境音の録音など。</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://objective-bardeen-e63d98.netlify.app/search/data.js</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://objective-bardeen-e63d98.netlify.app/search/data.js</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Contact</title>
-      <link>https://objective-bardeen-e63d98.netlify.app/contact/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://objective-bardeen-e63d98.netlify.app/contact/</guid>
-      <description></description>
     </item>
     
   </channel>
