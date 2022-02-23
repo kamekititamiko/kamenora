@@ -3,7 +3,17 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://objective-bardeen-e63d98.netlify.app/tags/nikkor-h-auto-135mm-f3.5/</loc>
+    <loc>https://objective-bardeen-e63d98.netlify.app/devices/</loc>
+    <lastmod>2022-02-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://objective-bardeen-e63d98.netlify.app/devices/nikkor-h-auto-135mm-f3.5/</loc>
+    <lastmod>2022-02-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://objective-bardeen-e63d98.netlify.app/regions/</loc>
     <lastmod>2022-02-19T00:00:00+00:00</lastmod>
   </url>
   
@@ -18,7 +28,7 @@
   </url>
   
   <url>
-    <loc>https://objective-bardeen-e63d98.netlify.app/tags/%E4%BA%AC%E9%83%BD/</loc>
+    <loc>https://objective-bardeen-e63d98.netlify.app/regions/%E4%BA%AC%E9%83%BD/</loc>
     <lastmod>2022-02-19T00:00:00+00:00</lastmod>
   </url>
   
@@ -28,12 +38,17 @@
   </url>
   
   <url>
+    <loc>https://objective-bardeen-e63d98.netlify.app/tags/%E9%87%8E%E9%B3%A5%E8%A6%B3%E5%AF%9F/</loc>
+    <lastmod>2022-02-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://objective-bardeen-e63d98.netlify.app/cycling/</loc>
     <lastmod>2022-02-12T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://objective-bardeen-e63d98.netlify.app/tags/nikkor-s-auto-50mm-f2.0/</loc>
+    <loc>https://objective-bardeen-e63d98.netlify.app/devices/nikkor-s-auto-50mm-f2.0/</loc>
     <lastmod>2022-02-12T00:00:00+00:00</lastmod>
   </url>
   
@@ -43,7 +58,7 @@
   </url>
   
   <url>
-    <loc>https://objective-bardeen-e63d98.netlify.app/tags/kodak-ultramax-400/</loc>
+    <loc>https://objective-bardeen-e63d98.netlify.app/devices/kodak-ultramax-400/</loc>
     <lastmod>2021-02-13T00:00:00+00:00</lastmod>
   </url>
   
@@ -53,7 +68,7 @@
   </url>
   
   <url>
-    <loc>https://objective-bardeen-e63d98.netlify.app/tags/new-nikkor-50mm-f2.0/</loc>
+    <loc>https://objective-bardeen-e63d98.netlify.app/devices/new-nikkor-50mm-f2.0/</loc>
     <lastmod>2021-02-13T00:00:00+00:00</lastmod>
   </url>
   
@@ -68,7 +83,7 @@
   </url>
   
   <url>
-    <loc>https://objective-bardeen-e63d98.netlify.app/tags/%E5%85%B5%E5%BA%AB/</loc>
+    <loc>https://objective-bardeen-e63d98.netlify.app/regions/%E5%85%B5%E5%BA%AB/</loc>
     <lastmod>2021-02-13T00:00:00+00:00</lastmod>
   </url>
   
@@ -89,6 +104,18 @@
   
   <url>
     <loc>https://objective-bardeen-e63d98.netlify.app/search/data.js</loc>
+  </url>
+  
+  <url>
+    <loc>https://objective-bardeen-e63d98.netlify.app/archives/2021/02/</loc>
+  </url>
+  
+  <url>
+    <loc>https://objective-bardeen-e63d98.netlify.app/archives/2022/02/</loc>
+  </url>
+  
+  <url>
+    <loc>https://objective-bardeen-e63d98.netlify.app/archives/</loc>
   </url>
   
   <url>

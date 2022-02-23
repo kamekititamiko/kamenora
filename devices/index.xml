@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Devices on The Note of KamekitiTamiko</title>
+    <link>https://objective-bardeen-e63d98.netlify.app/devices/</link>
+    <description>Recent content in Devices on The Note of KamekitiTamiko</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sat, 19 Feb 2022 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://objective-bardeen-e63d98.netlify.app/devices/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Nikkor-H auto 135mm f3.5</title>
+      <link>https://objective-bardeen-e63d98.netlify.app/devices/nikkor-h-auto-135mm-f3.5/</link>
+      <pubDate>Sat, 19 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://objective-bardeen-e63d98.netlify.app/devices/nikkor-h-auto-135mm-f3.5/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nikkor-S auto 50mm f2.0</title>
+      <link>https://objective-bardeen-e63d98.netlify.app/devices/nikkor-s-auto-50mm-f2.0/</link>
+      <pubDate>Sat, 12 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://objective-bardeen-e63d98.netlify.app/devices/nikkor-s-auto-50mm-f2.0/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>KODAK ULTRAMAX 400</title>
+      <link>https://objective-bardeen-e63d98.netlify.app/devices/kodak-ultramax-400/</link>
+      <pubDate>Sat, 13 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://objective-bardeen-e63d98.netlify.app/devices/kodak-ultramax-400/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>New Nikkor 50mm f2.0</title>
+      <link>https://objective-bardeen-e63d98.netlify.app/devices/new-nikkor-50mm-f2.0/</link>
+      <pubDate>Sat, 13 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://objective-bardeen-e63d98.netlify.app/devices/new-nikkor-50mm-f2.0/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
