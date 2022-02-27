@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Regions on The Note of KamekitiTamiko</title>
-    <link>https://objective-bardeen-e63d98.netlify.app/regions/</link>
+    <link>https://kamekititamiko.com/regions/</link>
     <description>Recent content in Regions on The Note of KamekitiTamiko</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Sat, 19 Feb 2022 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://objective-bardeen-e63d98.netlify.app/regions/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://kamekititamiko.com/regions/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>京都</title>
-      <link>https://objective-bardeen-e63d98.netlify.app/regions/%E4%BA%AC%E9%83%BD/</link>
+      <link>https://kamekititamiko.com/regions/%E4%BA%AC%E9%83%BD/</link>
       <pubDate>Sat, 19 Feb 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://objective-bardeen-e63d98.netlify.app/regions/%E4%BA%AC%E9%83%BD/</guid>
+      <guid>https://kamekititamiko.com/regions/%E4%BA%AC%E9%83%BD/</guid>
       <description></description>
     </item>
     
     <item>
       <title>兵庫</title>
-      <link>https://objective-bardeen-e63d98.netlify.app/regions/%E5%85%B5%E5%BA%AB/</link>
+      <link>https://kamekititamiko.com/regions/%E5%85%B5%E5%BA%AB/</link>
       <pubDate>Sat, 13 Feb 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://objective-bardeen-e63d98.netlify.app/regions/%E5%85%B5%E5%BA%AB/</guid>
+      <guid>https://kamekititamiko.com/regions/%E5%85%B5%E5%BA%AB/</guid>
       <description></description>
     </item>
     

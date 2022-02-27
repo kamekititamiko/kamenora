@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Search on The Note of KamekitiTamiko</title>
-    <link>https://objective-bardeen-e63d98.netlify.app/search/</link>
+    <link>https://kamekititamiko.com/search/</link>
     <description>Recent content in Search on The Note of KamekitiTamiko</description>
     <generator>Hugo -- gohugo.io</generator>
     
-	<atom:link href="https://objective-bardeen-e63d98.netlify.app/search/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://kamekititamiko.com/search/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title></title>
-      <link>https://objective-bardeen-e63d98.netlify.app/search/data.js</link>
+      <link>https://kamekititamiko.com/search/data.js</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://objective-bardeen-e63d98.netlify.app/search/data.js</guid>
+      <guid>https://kamekititamiko.com/search/data.js</guid>
       <description></description>
     </item>
     

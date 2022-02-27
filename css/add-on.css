@@ -5,6 +5,27 @@
   and follow the formatting and style given.
 */
 
+/*
+章レイアウト
+*/
+
+.content h2,h3 {
+  padding: 0.4em 0.5em;/*文字の上下 左右の余白*/
+  color: #494949;/*文字色*/
+  //background: #f4f4f4;/*背景色*/
+  border-left: solid 5px #009688;/*左線*/
+  border-bottom: solid 3px #d7d7d7;/*下線*/
+}
+
+/*
+すべてのリンクを滑らかにスクロール
+*/
+
+html { scroll-behavior: smooth;}
+
+/*
+用途不明だがどこかで使っている
+*/
 .test {
   display:inline-block;
   text-align:center;
@@ -56,18 +77,8 @@ ul.comment li{
 }
 
 /*
-写真の位置を調整する
+ステップバーデザイン１
 */
-
-figure.left {
-    text-align: left;
-}
-figure.left img {
-    margin: 0 auto;
-}
-
-
-/***ステップバーデザイン１***/
 .step-wrap1 {
  counter-reset:count;
  margin: 2em 0;
@@ -118,9 +129,8 @@ figure.left img {
 .step-wrap1 > :last-of-type::after {
  display: none;
 }
-/***ステップバーデザイン１***/
 
-/***ステップバーデザイン3***/
+/***ステップバーデザイン２***/
 .step-wrap3 {
  counter-reset: count;
  margin: 2em 0;
@@ -177,4 +187,3 @@ figure.left img {
 .step-wrap3 > :last-child::before, .step-wrap3 > :last-of-type::after {
  display: none;
 }
-/***ステップバーデザイン3***/

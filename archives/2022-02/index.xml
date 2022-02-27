@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2022-02 on The Note of KamekitiTamiko</title>
+    <link>https://kamekititamiko.com/archives/2022-02/</link>
+    <description>Recent content in 2022-02 on The Note of KamekitiTamiko</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sun, 27 Feb 2022 10:48:05 +0900</lastBuildDate>
+    
+	<atom:link href="https://kamekititamiko.com/archives/2022-02/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>https://kamekititamiko.com/2022/02/sample/</link>
+      <pubDate>Sun, 27 Feb 2022 10:48:05 +0900</pubDate>
+      
+      <guid>https://kamekititamiko.com/2022/02/sample/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

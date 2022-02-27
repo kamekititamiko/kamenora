@@ -2,20 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Nature on The Note of KamekitiTamiko</title>
-    <link>https://objective-bardeen-e63d98.netlify.app/nature/</link>
+    <link>https://kamekititamiko.com/nature/</link>
     <description>Recent content in Nature on The Note of KamekitiTamiko</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sat, 13 Feb 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 27 Feb 2022 10:48:05 +0900</lastBuildDate>
     
-	<atom:link href="https://objective-bardeen-e63d98.netlify.app/nature/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://kamekititamiko.com/nature/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title></title>
+      <link>https://kamekititamiko.com/2022/02/sample/</link>
+      <pubDate>Sun, 27 Feb 2022 10:48:05 +0900</pubDate>
+      
+      <guid>https://kamekititamiko.com/2022/02/sample/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>【環境音】赤穂御崎・福浦海水浴場の波の音</title>
-      <link>https://objective-bardeen-e63d98.netlify.app/2021/02/akoemvironmentalsound/</link>
+      <link>https://kamekititamiko.com/2021/02/akoemvironmentalsound/</link>
       <pubDate>Sat, 13 Feb 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://objective-bardeen-e63d98.netlify.app/2021/02/akoemvironmentalsound/</guid>
+      <guid>https://kamekititamiko.com/2021/02/akoemvironmentalsound/</guid>
       <description>赤穂御崎の福浦海水浴場で録音した波の音をYOUTUBEにアップしたので、紹介します。
 勉強や読書のBGMとして使ってください。
   撮影地付近の写真 ロードバイクで姫路駅から録音場所まで走ったのですが、起伏が激しく良い運動になりました。
