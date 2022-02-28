@@ -4,3 +4,10 @@
     "request": "^2.88.2"
   }
 }
+
+{
+  "scripts": {
+    "build": "netlify-lambda build src/functions/",
+    "serve": "netlify dev"
+  }
+}

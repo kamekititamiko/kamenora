@@ -1,4 +1,5 @@
 [build]
+  command = "yarn run build && hugo --gc --minify -b $URL"
   functions = "functions/"
   publish = ""
 

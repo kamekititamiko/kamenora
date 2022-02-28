@@ -187,3 +187,76 @@ ul.comment li{
 .step-wrap3 > :last-child::before, .step-wrap3 > :last-of-type::after {
  display: none;
 }
+
+/***ブログカード***/
+
+div.box {
+  margin-top: 16px;
+  margin-bottom: 16px;
+  box-shadow: 0 1px 4px rgba(0, 0, 0, 0.1), inset 0 0 0 1px rgba(0, 0, 0, 0.1);
+}
+
+.dark div.box {
+  box-shadow: 0 1px 4px rgba(255, 255, 255, 0.1), inset 0 0 0 1px rgba(255, 255, 255, 0.1);
+}
+
+a.box-content {
+  -webkit-tap-highlight-color: transparent;
+  text-decoration: none;
+  color: rgba(0, 0, 0, 0.8);
+}
+
+.dark a.box-content {
+  color: rgba(255, 255, 255, 0.8);
+}
+
+a.box-content.hover {
+  text-decoration: none;
+}
+
+.dark h2.box-title {
+  color: rgba(255, 255, 255, 1);
+}
+
+div.box-content {
+  display: flex;
+  align-items: center;
+}
+
+div.box-left {
+  flex: 1;
+  padding: 16px 20px;
+}
+
+h2.box-title {
+  font-size: 18px;
+  font-weight: 600;
+  line-height: 20px;
+  margin: 0;
+}
+
+div.box-description {
+  font-size: 16px;
+  line-height: 20px;
+  margin-top: 8px;
+}
+
+div.box-host {
+  margin-top: 12px;
+  font-size: 15px;
+  color: rgba(0, 0, 0, 0.54);
+  line-height: 20px;
+  margin-top: 12px;
+}
+
+.dark div.box-host {
+  color: rgba(255, 255, 255, 0.2);
+}
+
+div.box-image-container {
+  width: 160px;
+  height: 167px;
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
