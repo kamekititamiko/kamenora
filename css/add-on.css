@@ -188,75 +188,47 @@ ul.comment li{
  display: none;
 }
 
-/***ブログカード***/
 
-div.box {
-  margin-top: 16px;
-  margin-bottom: 16px;
-  box-shadow: 0 1px 4px rgba(0, 0, 0, 0.1), inset 0 0 0 1px rgba(0, 0, 0, 0.1);
+/* 目次の設定 */
+.toc-title {
+  box-shadow: 2px 2px 4px #ccc;
+  padding-bottom: 0.3em;
 }
 
-.dark div.box {
-  box-shadow: 0 1px 4px rgba(255, 255, 255, 0.1), inset 0 0 0 1px rgba(255, 255, 255, 0.1);
+.toc-check {
+  display: none;
 }
-
-a.box-content {
-  -webkit-tap-highlight-color: transparent;
-  text-decoration: none;
-  color: rgba(0, 0, 0, 0.8);
-}
-
-.dark a.box-content {
-  color: rgba(255, 255, 255, 0.8);
-}
-
-a.box-content.hover {
-  text-decoration: none;
-}
-
-.dark h2.box-title {
-  color: rgba(255, 255, 255, 1);
-}
-
-div.box-content {
+.toc-label {
+  background: #6ab5a5;
+  color: #fff;
   display: flex;
-  align-items: center;
+  margin-top: 0.5em;
+  padding: 6px 6px 0 12px;
+  height: 36px;
+}
+.toc-chapter {
+  height: auto;
+  opacity: 1;
+  padding: 0 10px;
+  margin-left: 1.5em;
+  transition: 0.5s;
+  visibility: visible;
+  font-size: 0.9rem;
 }
 
-div.box-left {
-  flex: 1;
-  padding: 16px 20px;
+.toc-check:checked ~ .toc-chapter {
+  height: 0;
+  opacity: 0;
+  padding: 0 10px;
+  visibility: hidden;
 }
 
-h2.box-title {
-  font-size: 18px;
-  font-weight: 600;
-  line-height: 20px;
-  margin: 0;
+#TableOfContents > ul > li > ul{
+  display: block;
+  text-align: left;
+  list-style-type: disc;
 }
-
-div.box-description {
-  font-size: 16px;
-  line-height: 20px;
-  margin-top: 8px;
-}
-
-div.box-host {
-  margin-top: 12px;
-  font-size: 15px;
-  color: rgba(0, 0, 0, 0.54);
-  line-height: 20px;
-  margin-top: 12px;
-}
-
-.dark div.box-host {
-  color: rgba(255, 255, 255, 0.2);
-}
-
-div.box-image-container {
-  width: 160px;
-  height: 167px;
-  background-position: center center;
-  background-repeat: no-repeat;
-  background-size: cover;
+#TableOfContents > ul > li > ul > li > ul{
+  padding-left: 0.75em;
+  list-style-type: circle;
 }
