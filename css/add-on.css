@@ -232,3 +232,15 @@ ul.comment li{
   padding-left: 0.75em;
   list-style-type: circle;
 }
+
+.sidebar-toc {
+    position: fixed;
+    top: 0;
+    opacity: 0;             // 透過度を0にして非表示
+    pointer-events: none;   // リンクを無効に
+    transition: opacity 0.5s ease-in-out;
+    &.show {
+        opacity: 1;             // 透過度を1にして表示
+        pointer-events: auto;   // リンクを有効に
+    }
+}
