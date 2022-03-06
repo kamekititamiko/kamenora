@@ -2,13 +2,13 @@
 <html lang="ja">
   <head>
   <meta charset="utf-8">
-<title>フィルム写真 - The Note of KamekitiTamiko</title>
+<title>フィルム写真 - かめきちたみこの雑記</title>
 <meta name="description" content="かめきちたみこの日々の生活日記です。">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
 <meta name="twitter:card" content="summary_large_image">
 
-<meta property="og:site_name" content="The Note of KamekitiTamiko">
+<meta property="og:site_name" content="かめきちたみこの雑記">
 <meta property="og:title" content="フィルム写真">
 <meta property="og:description" content="かめきちたみこの日々の生活日記です。">
 <meta property="og:type" content="article">
@@ -31,7 +31,7 @@
 
 
   <meta name="generator" content="Hugo 0.71.0" />
-  <link rel="stylesheet" href="/css/bundle.min.725450aeb03a56cbc0b85e2269d149d368baaf5d2ea62865395ea45e0c2ef526.css" integrity="sha256-clRQrrA6VsvAuF4iadFJ02i6r10upihlOV6kXgwu9SY="><link rel="stylesheet" href="/css/add-on.css">
+  <link rel="stylesheet" href="/css/bundle.min.bef651dd37153bfe46572edeadfa3c0e5865f51875a7225c53099c7f17b1684f.css" integrity="sha256-vvZR3TcVO/5GVy7erfo8Dlhl9Rh1pyJcUwmcfxexaE8="><link rel="stylesheet" href="/css/add-on.css">
 </head>
 
   <body>
@@ -89,53 +89,16 @@
           <a href="/contact" class="nav link"><i class='far fa-envelope'></i> Contact</a>
         
       
-      <a href="#share-menu" class="nav link share-toggle"><i class="fas fa-share-alt">&nbsp;</i>Share</a>
       
+      <a href="#search-input" class="nav link search-toggle"><i class="fas fa-search">&nbsp;</i>Search</a>
     </menu>
+    <a href="/search" class="nav search-toggle"><i class="fas fa-search fa-2x">&nbsp;</i></a>
     
-    <a href="#share-menu" class="nav share-toggle"><i class="fas fa-share-alt fa-2x">&nbsp;</i></a>
     
     <a href="#site-nav" class="nav nav-toggle"><i class="fas fa-bars fa-2x"></i></a>
   </nav>
+  <menu id="search" class="menu"><input id="search-input" class="search-input menu"></input><div id="search-results" class="search-results menu"></div></menu>
   
-  
-  
-    <menu id="share-menu" class="flyout-menu menu">
-      <h1>Share Post</h1>
-      
-
-
-
-
-  
-    
-    <a href="//twitter.com/share?text=%e3%83%95%e3%82%a3%e3%83%ab%e3%83%a0%e5%86%99%e7%9c%9f&amp;url=https%3a%2f%2fkamekititamiko.com%2ftags%2f%25E3%2583%2595%25E3%2582%25A3%25E3%2583%25AB%25E3%2583%25A0%25E5%2586%2599%25E7%259C%259F%2f" target="_blank" rel="noopener" class="nav share-btn twitter">
-        <p>Twitter</p>
-      </a>
-  
-
-  
-      <a href="//www.facebook.com/sharer/sharer.php?u=https%3a%2f%2fkamekititamiko.com%2ftags%2f%25E3%2583%2595%25E3%2582%25A3%25E3%2583%25AB%25E3%2583%25A0%25E5%2586%2599%25E7%259C%259F%2f" target="_blank" rel="noopener" class="nav share-btn facebook">
-        <p>Facebook</p>
-        </a>
-  
-
-  
-        <a href="//www.pinterest.com/pin/create/button/?url=https%3a%2f%2fkamekititamiko.com%2ftags%2f%25E3%2583%2595%25E3%2582%25A3%25E3%2583%25AB%25E3%2583%25A0%25E5%2586%2599%25E7%259C%259F%2f&amp;description=%e3%83%95%e3%82%a3%e3%83%ab%e3%83%a0%e5%86%99%e7%9c%9f" target="_blank" rel="noopener" class="nav share-btn pinterest">
-          <p>Pinterest</p>
-        </a>
-  
-
-  
-        <a href="mailto:?subject=%e3%81%93%e3%81%ae%e6%8a%95%e7%a8%bf%e3%82%92%e3%83%81%e3%82%a7%e3%83%83%e3%82%af%e3%81%99%e3%82%8b %7b%20%20%20%20%20%20%20%20map%5b%5d%7d&amp;body=https%3a%2f%2fkamekititamiko.com%2ftags%2f%25E3%2583%2595%25E3%2582%25A3%25E3%2583%25AB%25E3%2583%25A0%25E5%2586%2599%25E7%259C%259F%2f" target="_blank" class="nav share-btn email" data-proofer-ignore>
-          <p>Email</p>
-        </a>
-  
-
-
-
-
-    </menu>
   
 </header>
 
@@ -196,28 +159,7 @@
 
       </ul>
     </footer>
-<form>
-  <input id="searchKeyword" type="search" size="20">
-  <input id="searchButton" type="submit" value="検索">
-</form>
 
-<script>
-
-const SEARCH_URL = '/search/';
-
-window.addEventListener('DOMContentLoaded', () => {
-  const searchButton = document.getElementById('searchButton');
-  const searchKeyword = document.getElementById('searchKeyword');
-
-  
-  searchButton.addEventListener('click', e => {
-    e.preventDefault();  
-    const query = searchKeyword.value;
-    const url = query ? SEARCH_URL + '#' + query : SEARCH_URL;
-    location.href = url;
-  });
-});
-</script>
   
 </section>
 
@@ -255,8 +197,6 @@ window.addEventListener('DOMContentLoaded', () => {
     <img class="" src="https://by3302files.storage.live.com/y4mzaDqh50LWB-p43fwJY5ydQrGtCOUg3KnKA2LjfEw_5YND7TefCDvW5OdM0iSUtYFBKTnrF4rEdC8zbWfi6yQzZiRVJTL3i1HPkRxYi22N6sdy-rJVttalC3OGGolZ-kp1iQSJLUBRFLpdeuHwGh4AS9V-x-D3ahSvKlL_TNpyT7D3X7MAnFgsJh3i_f8IIVZ?width=1024&amp;height=686&amp;cropmode=none" alt="">
   </a>
     
-    <p>赤穂御崎の福浦海水浴場で録音した波の音をYOUTUBEにアップしたので、紹介します。<br>
-勉強や読書のBGMとして使ってください。</p>
   </div>
   <footer>
     <a href="/2021/02/akoemvironmentalsound/" class="button big">続きを読む</a>
@@ -429,6 +369,9 @@ window.addEventListener('DOMContentLoaded', () => {
       </footer>
     </section>
   
+
+
+
 </section>
 
       <footer id="site-footer">
@@ -437,7 +380,7 @@ window.addEventListener('DOMContentLoaded', () => {
 
 
   <p class="copyright">
-    © 2022 The Note of KamekitiTamiko
+    © 2022 かめきちたみこの雑記
       <br>
     Theme: <a href='https://github.com/pacollins/hugo-future-imperfect-slim' target='_blank' rel='noopener'>Hugo Future Imperfect Slim</a><br>A <a href='https://html5up.net/future-imperfect' target='_blank' rel='noopener'>HTML5 UP port</a> | Powered by <a href='https://gohugo.io/' title='0.71.0' target='_blank' rel='noopener'>Hugo</a>
   </p>
@@ -445,7 +388,7 @@ window.addEventListener('DOMContentLoaded', () => {
 <a id="back-to-top" href="#" class="fas fa-arrow-up fa-2x"></a>
       <script src="/js/highlight.js"></script>
     
-    <script>hljs.highlightAll();</script><script src="/js/bundle.min.8540add53986f39169a15628a21efb9e9d8fc84f1a5a0557ab1085e770254bfb.js" integrity="sha256-hUCt1TmG85FpoVYooh77np2PyE8aWgVXqxCF53AlS/s="></script>
+    <script>hljs.highlightAll();</script><script src="/js/bundle.min.ca9add352a96c97cc8951783bf568e7fc677dd7fc639d07bd5734c42bddcda52.js" integrity="sha256-yprdNSqWyXzIlReDv1aOf8Z33X/GOdB71XNMQr3c2lI="></script>
     <script src="/js/add-on.js"></script>
     </div>
   </body>

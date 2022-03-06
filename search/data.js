@@ -135,9 +135,9 @@ var data = [
   },
   {
     url: "https://kamekititamiko.com/",
-    title: "The Note of KamekitiTamiko",
+    title: "かめきちたみこの雑記",
     date: "2021-01-30T00:00:00Z",
-    body: "The Note of KamekitiTamiko"
+    body: "かめきちたみこの雑記"
   },
   {
     url: "https://kamekititamiko.com/search/data.js",
