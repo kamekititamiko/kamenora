@@ -6,23 +6,48 @@
 */
 body, p, html, ul, ol, ul > li, ol > li {
   #font-size: 1rem
+  #color: blue
 }
 
 h1, h2, h3, h4, h5 ,h6 {
-  #font-sizw: smaller ;
+  #font-sizw:  ;
 }
 
 /*
 章レイアウト
 */
 
+
 .content h2,h3 {
-  padding: 0.4em 0.5em;/*文字の上下 左右の余白*/
-  color: #494949;/*文字色*/
-  //background: #f4f4f4;/*背景色*/
-  border-left: solid 5px #009688;/*左線*/
-  border-bottom: solid 3px #d7d7d7;/*下線*/
+  position: relative;
+  background:  #afd8f4;
+  box-shadow: 0px 0px 0px 5px  #afd8f4;
+  border: dashed 2px white;
+  padding: 0.2em 0.5em;
+  color: #494949;
 }
+
+.content h2:after {
+  position: absolute;
+  content: '';
+  left: -7px;
+  top: -7px;
+  border-width: 0 0 15px 15px;
+  border-style: solid;
+  border-color: #fff #fff #f4f4f4;
+  box-shadow: 1px 1px 1px rgba(0, 0, 0, 0.15);
+}
+
+/*.content h2,h3 {
+    padding: 0.4em 0.5em;/*文字の上下 左右の余白*/
+    color: #494949;/*文字色*/
+    //background: #f4f4f4;/*背景色*/
+    border-left: solid 5px #009688;/*左線*/
+    border-bottom: solid 3px #d7d7d7;/*下線*/
+  }*/
+
+
+
 
 /*
 すべてのリンクを滑らかにスクロール
@@ -123,7 +148,7 @@ ul.comment li{
  font-size: 120%;
 }
 .step-label1 {
- color: #768888;
+ color: #a5e4db;
  font-size: 120%;
  font-weight: normal;
 }
@@ -140,8 +165,10 @@ ul.comment li{
 /***ステップバーデザイン２***/
 .step-wrap3 {
  counter-reset: count;
- margin: 2em 0;
  position: relative;
+ margin: 1em;
+ padding: 1.3em 1em 1em;
+ width: auto;
 }
 .step-content3 {
  padding: 1.3em 0 .3em 1em;
@@ -170,12 +197,12 @@ ul.comment li{
 }
 .step-label3 {
  padding: 3px 20px 3px 15px;
- color: #fff;
+ color: #494949;
  font-weight: bold;
  position: absolute;
  top: -18px;
  left: -20px;
- background: #6ab5a5;
+ background: #afd8f4;
  border-radius: 20px;
  z-index: 1;
 }
@@ -259,7 +286,7 @@ ul.comment li{
       font-weight: bolder;
     }
     .item_excerpt {
-      background: white;
+      background： white；
       margin: 0.5em 2em 1em;
       padding: 0.5em;
       border: dashed 1px lightgray;
@@ -270,11 +297,13 @@ ul.comment li{
     }
 
 
+/* details要素の修飾 */
+
 summary {
   cursor: pointer;
   transition: 0.2s; /* 変化を滑らかに */
 }
-/* ホバー時のスタイル */
+
 summary:hover {
   cursor: pointer; /* カーソルを指マークに */
   border-bottom-color: transparent;
@@ -293,4 +322,31 @@ details[open] .details-content {
     opacity: 1;
     transform: none;
   }
+}
+
+/* TOCの装飾 */
+
+.page-toc {
+    margin: 1em;
+    padding: 1em;
+    width: auto;
+    /*border: 1px solid #ddd;*/
+    background-color: #f5f5f5;
+}
+
+/* コラムの装飾 */
+
+.column{
+    position:relative;
+    margin: 1em;
+    padding: 1em;
+    background-color: #f5f5f5;
+}
+.column .title{
+    top=0
+    left=0
+    border-radius;
+    color:#494949;
+    line-height: 0.5em;
+    font-weight:bold;
 }
