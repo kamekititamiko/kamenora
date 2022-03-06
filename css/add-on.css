@@ -350,3 +350,28 @@ details[open] .details-content {
     line-height: 0.5em;
     font-weight:bold;
 }
+
+#TableOfContents > ul {
+  font-size: normal;
+  padding: 0.5em 1em;
+  line-height: 2;
+}
+
+}
+#TableOfContents ul {
+  list-style-type: none;
+}
+#TableOfContents li {
+  padding-top: 0;
+}
+#TableOfContents li > ul {
+  list-style-type: none;
+  padding-left: 1.5em;
+  width: 100%;
+}
+#TableOfContents a {
+  font-weight: normal;
+  display: block;
+  border-bottom: dashed 1px lightgray;
+}
+
