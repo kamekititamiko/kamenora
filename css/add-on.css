@@ -4,6 +4,14 @@
   is an official part of the theme (ex. Pull Requests) should be included in main.css
   and follow the formatting and style given.
 */
+
+/*
+すべてのリンクを滑らかにスクロール
+*/
+
+html { scroll-behavior: smooth;}
+
+
 body, p, html, ul, ol, ul > li, ol > li {
   #font-size: 1rem
   #color: blue
@@ -47,13 +55,6 @@ h1, h2, h3, h4, h5 ,h6 {
   }*/
 
 
-
-
-/*
-すべてのリンクを滑らかにスクロール
-*/
-
-html { scroll-behavior: smooth;}
 
 /*
 用途不明だがどこかで使っている
