@@ -270,6 +270,7 @@ ul.comment li{
 
 /* 検索ページ */
 
+<<<<<<< HEAD
 input.searchtext{
   #color: deeppink;
   font-size: 1em;
@@ -279,6 +280,15 @@ input.searchtext{
 }
     input::-webkit-input-placeholder {
       color: grey;
+=======
+    input {
+      color: deeppink;
+      font-size: 1.2em;
+      font-weight: bolder;
+    }
+    input::-webkit-input-placeholder {
+      color: pink;
+>>>>>>> origin/master
     }
     #result {
       margin: 1em;
