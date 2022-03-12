@@ -275,7 +275,7 @@ input.searchtext{
   font-size: 1em;
   font-weight: bolder;
   width: 80%;
-      
+
 }
     input::-webkit-input-placeholder {
       color: grey;
@@ -354,6 +354,8 @@ details[open] .details-content {
     font-weight:bold;
 }
 
+/* 目次の装飾 */
+
 #TableOfContents > ul {
   font-size: normal;
   padding: 0.5em 1em;
@@ -376,5 +378,20 @@ details[open] .details-content {
   font-weight: normal;
   display: block;
   border-bottom: dashed 1px lightgray;
+}
+
+/* タイトルの装飾 スマホサイズなら少し小さく */
+
+@media only screen and (max-width: 660px) {
+  .title {
+  font-size: 0.8em;
+  /*
+  font-size: 1.1em;
+  */
+  width: 100%;
+  @include for-laptop-up {
+    width: 75%;
+    }
+  }
 }
 
