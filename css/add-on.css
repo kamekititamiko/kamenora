@@ -25,7 +25,92 @@ h1, h2, h3, h4, h5 ,h6 {
 章レイアウト
 */
 
+.content h2,h3 {
+  /*線の種類（二重線）太さ 色*/
+  #border-bottom: double 5px #afd8f4;
+  border-bottom: solid 3px #afd8f4;
+  color: #494949;
+  #border-left: solid 3px #afd8f4;/*左線*/
+  #padding: 0em 0.5em;
+  padding: 0.2em 0.2em 0.2em 1.5em;/*アイコン分のスペース*/
+  position: relative;/*相対位置*/
+  background:  #f2f9fd;
+}
+.content h2:before {
+  font-family: "Font Awesome 5 Free";/*忘れずに*/
+  content: "\f0da";/*アイコンのユニコード*/
+  font-weight: 900;
+  position: absolute;/*絶対位置*/
+  font-size: 1em;/*サイズ*/
+  left: 0.75em;/*アイコンの位置*/
+  top: 0.15em;/*アイコンの位置*/
+  color: #494949; /*アイコン色*/
+}
 
+.content h3:before {
+  font-family: "Font Awesome 5 Free";/*忘れずに*/
+  content: "\f0da";/*アイコンのユニコード*/
+  font-weight: 2000;
+  position: absolute;/*絶対位置*/
+  font-size: 1em;/*サイズ*/
+  left: 0.75em;/*アイコンの位置*/
+  top: 0.2em;/*アイコンの位置*/
+  color: #494949; /*アイコン色*/
+}
+
+@media only screen and (max-width: 660px) {
+  .content h2{
+  position: relative;/*相対位置*/
+  /*線の種類（二重線）太さ 色*/
+  border-bottom: solid 2px #afd8f4;
+  #border-bottom: solid 2px #afd8f4;
+  color: #494949;
+  #border-left: solid 3px #afd8f4;/*左線*/
+  font-size: 1.4em;
+  padding: 0em 0em 0em 1.5em;/*アイコン分のスペース*/
+  background:  #f2f9fd;
+  }
+  .content h3{
+  position: relative;/*相対位置*/
+  /*線の種類（二重線）太さ 色*/
+  border-bottom: solid 2px #afd8f4;
+  #border-bottom: solid 2px #afd8f4;
+  color: #494949;
+  #border-left: solid 3px #afd8f4;/*左線*/
+  font-size: 1.1em;
+  padding: 0em 0em 0em 1.5em;/*アイコン分のスペース*/
+  background:  #f2f9fd;
+  }
+.content h2:before {
+  font-family: "Font Awesome 5 Free";/*忘れずに*/
+  content: "\f0da";/*アイコンのユニコード*/
+  font-weight: 900;
+  position: absolute;/*絶対位置*/
+  font-size: 1em;/*サイズ*/
+  left: 0.75em;/*アイコンの位置*/
+  top: 0em;/*アイコンの位置*/
+  color: #494949; /*アイコン色*/
+}
+
+.content h3:before {
+  font-family: "Font Awesome 5 Free";/*忘れずに*/
+  content: "\f0da";/*アイコンのユニコード*/
+  font-weight: 2000;
+  position: absolute;/*絶対位置*/
+  font-size: 1em;/*サイズ*/
+  left: 0.75em;/*アイコンの位置*/
+  top: 0em;/*アイコンの位置*/
+  color: #494949; /*アイコン色*/
+}
+
+}
+
+
+
+
+
+/*
+水色の刺繍・付箋風
 .content h2,h3 {
   position: relative;
   background:  #afd8f4;
@@ -45,14 +130,17 @@ h1, h2, h3, h4, h5 ,h6 {
   border-color: #fff #fff #f4f4f4;
   box-shadow: 1px 1px 1px rgba(0, 0, 0, 0.15);
 }
-
-/*.content h2,h3 {
+*/
+/*
+左に緑線・下に線
+.content h2,h3 {
     padding: 0.4em 0.5em;/*文字の上下 左右の余白*/
     color: #494949;/*文字色*/
     //background: #f4f4f4;/*背景色*/
     border-left: solid 5px #009688;/*左線*/
     border-bottom: solid 3px #d7d7d7;/*下線*/
-  }*/
+  }
+*/
 
 
 
@@ -221,6 +309,63 @@ ul.comment li{
 }
 .step-wrap3 > :last-child::before, .step-wrap3 > :last-of-type::after {
  display: none;
+}
+
+@media only screen and (max-width: 660px) {
+.step-wrap3 {
+ counter-reset: count;
+ position: relative;
+ margin: 0.5em;
+ padding: 1.3em 1em 1em;
+ width: auto;
+}
+
+.step-content3 {
+ padding: 1.3em 0 .3em 1em;
+ margin: 0 0 1em 1em;
+ position: relative;
+ border-top: solid 2px #ddd;
+ font-size: 0.9em
+}
+
+.step-content3::before {
+ content: "";
+ display: block;
+ position: absolute;
+ bottom: 0;
+ left: -10px;
+ border-style: solid;
+ border-width: 17px 8px 0 8px;
+ border-color: #ddd transparent transparent transparent;
+}
+
+.step-label3 {
+ padding: 0px 15px 0px 15px;
+ color: #494949;
+ font-weight: bold;
+ position: absolute;
+ top: -18px;
+ left: -20px;
+ background: #afd8f4;
+ border-radius: 20px;
+ z-index: 2;
+}
+
+.step-content3::after {
+ content: "";
+ display: block;
+ height: calc(100% - 36px);
+ border-left: dashed 3px #ddd;
+ position: absolute;
+ top: 16px;
+ left: -4px;
+}
+
+.step-title3 {
+ font-weight: bold;
+ font-size: 110%;
+}
+
 }
 
 
