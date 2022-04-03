@@ -5,7 +5,7 @@
     <link>https://kamekititamiko.com/regions/</link>
     <description>Recent content in Regions on かめきちたみこの雑記</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sat, 05 Mar 2022 18:54:06 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 13 Mar 2022 22:27:37 +0900</lastBuildDate>
     
 	<atom:link href="https://kamekititamiko.com/regions/index.xml" rel="self" type="application/rss+xml" />
     
@@ -13,9 +13,18 @@
     <item>
       <title>京都</title>
       <link>https://kamekititamiko.com/regions/%E4%BA%AC%E9%83%BD/</link>
-      <pubDate>Sat, 05 Mar 2022 18:54:06 +0900</pubDate>
+      <pubDate>Sun, 13 Mar 2022 22:27:37 +0900</pubDate>
       
       <guid>https://kamekititamiko.com/regions/%E4%BA%AC%E9%83%BD/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>奈良</title>
+      <link>https://kamekititamiko.com/regions/%E5%A5%88%E8%89%AF/</link>
+      <pubDate>Sat, 05 Mar 2022 22:24:16 +0900</pubDate>
+      
+      <guid>https://kamekititamiko.com/regions/%E5%A5%88%E8%89%AF/</guid>
       <description></description>
     </item>
     

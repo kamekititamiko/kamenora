@@ -9,8 +9,14 @@
 すべてのリンクを滑らかにスクロール
 */
 
-html { scroll-behavior: smooth;}
-
+html {
+  scroll-behavior: smooth;
+}
+@media (prefers-reduced-motion: reduce) {
+  html {
+    scroll-behavior: auto;
+  }
+}
 
 body, p, html, ul, ol, ul > li, ol > li {
   #font-size: 1rem
@@ -486,8 +492,8 @@ details[open] .details-content {
 
 .column{
     position:relative;
-    margin: 1em;
-    padding: 1em;
+    margin: 0em;
+    padding: 0.8em;
     background-color: #f5f5f5;
 }
 .column .title{
@@ -497,6 +503,7 @@ details[open] .details-content {
     color:#494949;
     line-height: 0.5em;
     font-weight:bold;
+    font-size: 1em;
 }
 
 /* 目次の装飾 */
@@ -539,4 +546,3 @@ details[open] .details-content {
     }
   }
 }
-
