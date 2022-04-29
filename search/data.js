@@ -4,44 +4,62 @@ var data = [
   {
     url: "https://kamekititamiko.com/devices/cine-nikkor-50mm-f1.8/",
     title: "Cine Nikkor 50mm f1.8",
-    date: "2022-03-13T22:27:37+09:00",
+    date: "2022-04-03T23:48:59+09:00",
     body: "Cine Nikkor 50mm f1.8"
   },
   {
     url: "https://kamekititamiko.com/devices/",
     title: "Devices",
-    date: "2022-03-13T22:27:37+09:00",
+    date: "2022-04-03T23:48:59+09:00",
     body: "Devices"
   },
   {
     url: "https://kamekititamiko.com/regions/",
     title: "Regions",
-    date: "2022-03-13T22:27:37+09:00",
+    date: "2022-04-03T23:48:59+09:00",
     body: "Regions"
   },
   {
     url: "https://kamekititamiko.com/tags/",
     title: "Tags",
-    date: "2022-03-13T22:27:37+09:00",
+    date: "2022-04-03T23:48:59+09:00",
     body: "Tags"
   },
   {
     url: "https://kamekititamiko.com/travel/",
     title: "Travel",
-    date: "2022-03-13T22:27:37+09:00",
+    date: "2022-04-03T23:48:59+09:00",
     body: "Travel"
+  },
+  {
+    url: "https://kamekititamiko.com/regions/%E4%BA%AC%E9%83%BD/",
+    title: "京都",
+    date: "2022-04-03T23:48:59+09:00",
+    body: "京都"
+  },
+  {
+    url: "https://kamekititamiko.com/2022/04/kyoutosakura/",
+    title: "京都の隠れた花見スポットを紹介！",
+    date: "2022-04-03T23:48:59+09:00",
+    body: "京都の隠れた花見スポットを紹介！ 京都市内には、平野神社、円山公園、醍醐寺など言わずと知れた桜の名所がたくさんありますが、あまり観光地として有名ではないけれども桜がとてもきれいな場所、というのががたくさんあります。 ここでは、この春訪れた京都の隠れた桜の名所を、まとめて紹介したいと思います。 京都御苑 京都御苑は「隠れた」という点では違うかもしれませんが、広大な土地に花見を楽しめる場所が点在しています。 宗像神社付近 \r\r 宗像神社は、京都御所の南西端に位置する神社です。 大きな楠と夏頃に飛来するアオバズク で有名な神社ですが、付近では春にユキヤナギやカエデの新緑、桜の花を楽しむことができました。 京都御所のユキヤナギ レンズ：Cine-Nikkor 50mm f1.8　カメラ：SONY αⅡ 宗像神社の桜Ⅰ レンズ：Cine-Nikkor 50mm f1.8　カメラ：SONY αⅡ 宗像神社の桜Ⅱ レンズ：Cine-Nikkor 50mm f1.8　カメラ：SONY αⅡ 宗像神社の桜Ⅲ レンズ：Cine-Nikkor 50mm f1.8　カメラ：SONY αⅡ 宗像神社の新緑 レンズ：Cine-Nikkor 50mm f1.8　カメラ：SONY αⅡ 近衛邸宅跡 \r\r 近衛邸宅跡は、近衛家という由緒ある公家の屋敷があった場所で、現在でも安土桃山時代の石組をもつ近衛池等がのこっています。また近衛邸宅跡には、 約60本の枝垂桜の木 が植えられていて有名な花見の名所になっており、毎年たくさんの方が桜の乱舞を見に訪れています。 \r山桜の花は赤茶がかった新芽が印象的。 山桜の花 レンズ：Cine-Nikkor 50mm f1.8　カメラ：SONY αⅡ この日は雨でしたが、桜の花は散らずに元気に咲いていました。 近衛邸宅跡の枝垂桜Ⅰ レンズ：Cine-Nikkor 50mm f1.8　カメラ：SONY αⅡ 近衛邸宅跡の枝垂桜Ⅱ レンズ：Cine-Nikkor 50mm f1.8　カメラ：SONY αⅡ 近衛池は今まで、草木が鬱蒼としていて暗い場所でしたが、2022年に整備が完了したようで、明るい場所になっていました。 近衛池 レンズ：Cine-Nikkor 50mm f1.8　カメラ：SONY αⅡ 近衛邸宅跡の枝垂桜Ⅲ レンズ：Cine-Nikkor 50mm f1.8　カメラ：SONY αⅡ 水火天満宮 水火天満宮は、上京区は同志社大学の北側、お寺が集積している地域にある神社です。ここも枝垂桜が綺麗な神社として知られています。 \r\r 水火天満宮の枝垂桜Ⅰ レンズ：Cine-Nikkor 50mm f1.8　カメラ：SONY αⅡ 水火天満宮の枝垂桜Ⅱ レンズ：Cine-Nikkor 50mm f1.8　カメラ：SONY αⅡ 水火天満宮の枝垂桜Ⅲ レンズ：Cine-Nikkor 50mm f1.8　カメラ：SONY αⅡ 妙覺寺 妙覺寺は、同志社大学の北側、寺之内通のお寺が密集する地域にある大きな寺院です。このあたりの寺院は、豊臣秀吉の都市改造によって強制的に移転させられたもののようです。秀吉の都市改造によって、市街地の東側には「寺町」を、北部には「寺之内」を形成されたと言われています。 \r\r この妙覺寺の正門は、秀吉が都市改造を執り行っていた頃に建設した聚楽第の裏門を流用したものといわれ、時代にして 安土桃山時代の建造物 であり、歴史上価値のあるものとされているそうです。 妙覚寺大門のそばには 一本の大きな枝垂桜 がうえられており、大門とあわせて京都らしい雰囲気を醸し出してくれます。私のやや望遠のシネレンズでは全体をうまく撮影できなかった… 妙覺寺大門と枝垂桜Ⅰ レンズ：Cine-Nikkor 50mm f1.8　カメラ：SONY αⅡ 妙覺寺大門と枝垂桜Ⅱ レンズ：Cine-Nikkor 50mm f1.8　カメラ：SONY αⅡ 妙覺寺大門と枝垂桜Ⅲ レンズ：Cine-Nikkor 50mm f1.8　カメラ：SONY αⅡ 本満寺 本満寺もまた、豊臣秀吉の都市改造により形成された寺院の並ぶ通りである、寺町通りの一角にあります。 \r\r 本満寺は主に地元の方が利用されるお寺で、観光地ではありませんが、今回紹介する中では本満寺が一番桜がきれいだと思います。 本満寺には、 大きな枝垂桜が一本 植わっています。この日は適度に花びらが散っており、 根本の手水や踏み石と枝垂桜の花びらが調和 していて綺麗でした。 本満寺の枝垂桜 レンズ：Cine-Nikkor 50mm f1.8　カメラ：SONY αⅡ 花びらと猫 レンズ：Cine-Nikkor 50mm f1.8　カメラ：SONY αⅡ 花びらと手水 レンズ：Cine-Nikkor 50mm f1.8　カメラ：SONY αⅡ 以上、京都で今年花見をした場所でした。来年はまた別の場所を紹介できたらなと思います。"
+  },
+  {
+    url: "https://kamekititamiko.com/tags/%E4%BA%AC%E9%83%BD%E5%BE%A1%E8%8B%91/",
+    title: "京都御苑",
+    date: "2022-04-03T23:48:59+09:00",
+    body: "京都御苑"
+  },
+  {
+    url: "https://kamekititamiko.com/tags/%E8%8A%B1%E8%A6%8B/",
+    title: "花見",
+    date: "2022-04-03T23:48:59+09:00",
+    body: "花見"
   },
   {
     url: "https://kamekititamiko.com/tags/%E3%83%8F%E3%82%A4%E3%82%AD%E3%83%B3%E3%82%B0/",
     title: "ハイキング",
     date: "2022-03-13T22:27:37+09:00",
     body: "ハイキング"
-  },
-  {
-    url: "https://kamekititamiko.com/regions/%E4%BA%AC%E9%83%BD/",
-    title: "京都",
-    date: "2022-03-13T22:27:37+09:00",
-    body: "京都"
   },
   {
     url: "https://kamekititamiko.com/2022/03/yamashiroaodani/",
@@ -90,12 +108,6 @@ var data = [
     title: "Nikkor-Q auto 13.5cm f3.5",
     date: "2022-02-19T00:00:00Z",
     body: "Nikkor-Q auto 13.5cm f3.5"
-  },
-  {
-    url: "https://kamekititamiko.com/tags/%E4%BA%AC%E9%83%BD%E5%BE%A1%E8%8B%91/",
-    title: "京都御苑",
-    date: "2022-02-19T00:00:00Z",
-    body: "京都御苑"
   },
   {
     url: "https://kamekititamiko.com/2022/02/kyotogosyo/",
@@ -198,6 +210,12 @@ var data = [
     title: "2022/03",
     date: "0001-01-01T00:00:00Z",
     body: "2022/03"
+  },
+  {
+    url: "https://kamekititamiko.com/archives/2022/04/",
+    title: "2022/04",
+    date: "0001-01-01T00:00:00Z",
+    body: "2022/04"
   },
   {
     url: "https://kamekititamiko.com/archives/",
