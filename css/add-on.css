@@ -546,3 +546,43 @@ details[open] .details-content {
     }
   }
 }
+
+/* term.htmlの修正で使用（未完成） */
+
+
+article.term-post {
+  background: hsl(0, 0%, 100%);
+  border: 1px solid hsla(0, 0%, 63%, 0.3);
+  @include display-flex;
+  flex-direction: column;
+  margin-bottom: 1em;
+  width: 49%;
+  }
+  header {
+    min-height: 4em;
+    padding: 0.5em 1.25em;
+    position: relative;
+    @include for-laptop-up {
+      border-top: 1px solid hsla(0, 0%, 63%, 0.3);
+    }
+    @include for-desktop-up {
+      border: 0;
+    }
+    h2 {
+      font-size: 0.8em; /* デフォルトは0.7em */
+    }
+    time {
+      font-family: "Raleway", Helvetica, sans-serif;
+      font-size: 0.6em;
+      letter-spacing: 0.25em;
+      text-transform: uppercase;
+    }
+  }
+  .image {
+    margin: 0;
+  }
+}
+
+.count {
+  float: right;
+}

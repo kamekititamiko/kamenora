@@ -56,6 +56,12 @@ var data = [
     body: "鹿児島"
   },
   {
+    url: "https://kamekititamiko.com/2022/04/amamifrog/",
+    title: "【環境音】奄美大島・ヤドリ浜キャンプ場のアマミアオガエルの鳴き声",
+    date: "2022-04-09T23:48:59+09:00",
+    body: "【環境音】奄美大島・ヤドリ浜キャンプ場のアマミアオガエルの鳴き声 奄美大島のヤドリ浜キャンプ場で録音したカエルの鳴き声をYOUTUBEにアップしたので、紹介します。 勉強や読書のBGMとして使ってください。 同じ場所で朝の鳥の鳴き声も録音しており、そちらについては下で紹介しています。 \r撮影地 本音声の撮影場所は、 ヤドリ浜キャンプ場 という、瀬戸内町の南の方にあるキャンプ場です。 BBG設備やトイレ・シャワー室（冷水のみ）がそろっていて、なんと無料で利用できるという素晴らしい施設ですが、 本当に素晴らしいのは 動植物や波など自然に囲まれた場所ならではの景色と音。 奄美空港からは自動車でおよそ一時間半と少し遠いですが、良いところですよ。 \r\r アマミアオガエル この音声で鳴いているのは アマミアマガエル という種類のカエルです。 奄美・沖縄諸島の固有種です。 鳴き声は、本土にも生息するシュレーゲルアオガエルとも似ています。 \r途中から機器のすぐ傍でカエルが鳴き始め、終始音割れしてしまいました。まだまだ録音の修行が足りません。 もしかしたら他のカエルの鳴き声も録れているかもしれません。 録音場所付近の写真 録音をしたのはこんな場所です。 キャンプ場の近くに「いそしぎ」というレストランがあり、そのお店の庭に水辺が多いため、夜になるとずっとカエルの鳴き声が聞こえるようになっていました。 ヤドリ浜キャンプ場 レンズ：Cine-Nikkor 50mm f1.8　カメラ：SONY αⅡ ハイビスカス レンズ：Cine-Nikkor 50mm f1.8　カメラ：SONY αⅡ ヤドリ浜 レンズ：Cine-Nikkor 50mm f1.8　カメラ：SONY αⅡ 他にもたくさん奄美大島の写真を撮影していますが、それはまた別の記事で紹介することにします。"
+  },
+  {
     url: "https://kamekititamiko.com/2022/04/amamiusagi/",
     title: "【奄美大島】アマミノクロウサギを観察してきました",
     date: "2022-04-08T23:48:59+09:00",
@@ -172,37 +178,31 @@ var data = [
   {
     url: "https://kamekititamiko.com/devices/kodak-ultramax-400/",
     title: "KODAK ULTRAMAX 400",
-    date: "2021-02-13T00:00:00Z",
+    date: "2021-02-13T23:48:59+09:00",
     body: "KODAK ULTRAMAX 400"
   },
   {
     url: "https://kamekititamiko.com/devices/new-nikkor-50mm-f2.0/",
     title: "New Nikkor 50mm f2.0",
-    date: "2021-02-13T00:00:00Z",
+    date: "2021-02-13T23:48:59+09:00",
     body: "New Nikkor 50mm f2.0"
   },
   {
     url: "https://kamekititamiko.com/2021/02/akoemvironmentalsound/",
     title: "【環境音】赤穂御崎・福浦海水浴場の波の音",
-    date: "2021-02-13T00:00:00Z",
-    body: "【環境音】赤穂御崎・福浦海水浴場の波の音 赤穂御崎の福浦海水浴場で録音した波の音をYOUTUBEにアップしたので、紹介します。 勉強や読書のBGMとして使ってください。 撮影地付近の写真 ロードバイクで姫路駅から録音場所まで走ったのですが、起伏が激しく良い運動になりました。 坂越港フィルム：KODAK ULTRAMAX 400　レンズ：New Nikkor 50mm f2.0　カメラ：Nikomat FT2 大塚古墳フィルム：KODAK ULTRAMAX 400　レンズ：New Nikkor 50mm f2.0　カメラ：Nikomat FT2 赤穂御崎の福浦海水浴場フィルム：KODAK ULTRAMAX 400　レンズ：New Nikkor 50mm f2.0　カメラ：Nikomat FT2 赤穂駅フィルム：KODAK ULTRAMAX 400　レンズ：New Nikkor 50mm f2.0　カメラ：Nikomat FT2"
-  },
-  {
-    url: "https://kamekititamiko.com/2021/02/amamifrog/",
-    title: "【環境音】赤穂御崎・福浦海水浴場の波の音",
-    date: "2021-02-13T00:00:00Z",
+    date: "2021-02-13T23:48:59+09:00",
     body: "【環境音】赤穂御崎・福浦海水浴場の波の音 赤穂御崎の福浦海水浴場で録音した波の音をYOUTUBEにアップしたので、紹介します。 勉強や読書のBGMとして使ってください。 撮影地付近の写真 ロードバイクで姫路駅から録音場所まで走ったのですが、起伏が激しく良い運動になりました。 坂越港フィルム：KODAK ULTRAMAX 400　レンズ：New Nikkor 50mm f2.0　カメラ：Nikomat FT2 大塚古墳フィルム：KODAK ULTRAMAX 400　レンズ：New Nikkor 50mm f2.0　カメラ：Nikomat FT2 赤穂御崎の福浦海水浴場フィルム：KODAK ULTRAMAX 400　レンズ：New Nikkor 50mm f2.0　カメラ：Nikomat FT2 赤穂駅フィルム：KODAK ULTRAMAX 400　レンズ：New Nikkor 50mm f2.0　カメラ：Nikomat FT2"
   },
   {
     url: "https://kamekititamiko.com/tags/%E3%83%95%E3%82%A3%E3%83%AB%E3%83%A0%E5%86%99%E7%9C%9F/",
     title: "フィルム写真",
-    date: "2021-02-13T00:00:00Z",
+    date: "2021-02-13T23:48:59+09:00",
     body: "フィルム写真"
   },
   {
     url: "https://kamekititamiko.com/regions/%E5%85%B5%E5%BA%AB/",
     title: "兵庫",
-    date: "2021-02-13T00:00:00Z",
+    date: "2021-02-13T23:48:59+09:00",
     body: "兵庫"
   },
   {
