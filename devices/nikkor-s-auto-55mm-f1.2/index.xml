@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Cycling on かめきちたみこの雑記</title>
-    <link>https://kamekititamiko.com/cycling/</link>
-    <description>Recent content in Cycling on かめきちたみこの雑記</description>
+    <title>Nikkor-S Auto 55mm F1.2 on かめきちたみこの雑記</title>
+    <link>https://kamekititamiko.com/devices/nikkor-s-auto-55mm-f1.2/</link>
+    <description>Recent content in Nikkor-S Auto 55mm F1.2 on かめきちたみこの雑記</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Sat, 30 Apr 2022 12:06:45 +0900</lastBuildDate>
     
-	<atom:link href="https://kamekititamiko.com/cycling/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://kamekititamiko.com/devices/nikkor-s-auto-55mm-f1.2/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -17,15 +17,6 @@
       
       <guid>https://kamekititamiko.com/2022/04/southkyoto/</guid>
       <description>4月の下旬、GWのはじめに京都南部をサイクリングしたので、そのときのことをまとめ</description>
-    </item>
-    
-    <item>
-      <title>嵐山サイクリング！</title>
-      <link>https://kamekititamiko.com/2022/02/arashiyama/</link>
-      <pubDate>Sat, 12 Feb 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://kamekititamiko.com/2022/02/arashiyama/</guid>
-      <description>京都の冬は寒いです。寒いとランニングにもいけずどうしても運動不足になってしまいま</description>
     </item>
     
   </channel>
