@@ -3,32 +3,52 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://kamekititamiko.com/devices/</loc>
+    <lastmod>2022-07-31T23:57:12+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://kamekititamiko.com/nature/</loc>
+    <lastmod>2022-07-31T23:57:12+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://kamekititamiko.com/regions/</loc>
+    <lastmod>2022-07-31T23:57:12+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://kamekititamiko.com/tags/</loc>
+    <lastmod>2022-07-31T23:57:12+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://kamekititamiko.com/devices/tascam-dr-100mk/</loc>
+    <lastmod>2022-07-31T23:57:12+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://kamekititamiko.com/2022/07/higurashi/</loc>
+    <lastmod>2022-07-31T23:57:12+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://kamekititamiko.com/regions/%E4%BA%AC%E9%83%BD/</loc>
+    <lastmod>2022-07-31T23:57:12+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://kamekititamiko.com/tags/%E7%92%B0%E5%A2%83%E9%9F%B3/</loc>
+    <lastmod>2022-07-31T23:57:12+09:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://kamekititamiko.com/cycling/</loc>
     <lastmod>2022-04-30T12:06:45+09:00</lastmod>
   </url>
   
   <url>
-    <loc>https://kamekititamiko.com/devices/</loc>
-    <lastmod>2022-04-30T12:06:45+09:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://kamekititamiko.com/devices/nikkor-s-auto-55mm-f1.2/</loc>
-    <lastmod>2022-04-30T12:06:45+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://kamekititamiko.com/regions/</loc>
-    <lastmod>2022-04-30T12:06:45+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://kamekititamiko.com/tags/</loc>
-    <lastmod>2022-04-30T12:06:45+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://kamekititamiko.com/regions/%E4%BA%AC%E9%83%BD/</loc>
     <lastmod>2022-04-30T12:06:45+09:00</lastmod>
   </url>
   
@@ -43,8 +63,38 @@
   </url>
   
   <url>
+    <loc>https://kamekititamiko.com/devices/cine-nikkor-50mm-f1.8/</loc>
+    <lastmod>2022-04-14T15:39:49+09:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://kamekititamiko.com/travel/</loc>
-    <lastmod>2022-04-10T23:20:00+09:00</lastmod>
+    <lastmod>2022-04-14T15:39:49+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://kamekititamiko.com/2022/04/ozucity/</loc>
+    <lastmod>2022-04-14T15:39:49+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://kamekititamiko.com/2022/04/uwajima/</loc>
+    <lastmod>2022-04-14T15:39:49+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://kamekititamiko.com/tags/%E5%9F%8E/</loc>
+    <lastmod>2022-04-14T15:39:49+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://kamekititamiko.com/tags/%E5%BA%AD%E5%9C%92/</loc>
+    <lastmod>2022-04-14T15:39:49+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://kamekititamiko.com/regions/%E6%84%9B%E5%AA%9B/</loc>
+    <lastmod>2022-04-14T15:39:49+09:00</lastmod>
   </url>
   
   <url>
@@ -63,11 +113,6 @@
   </url>
   
   <url>
-    <loc>https://kamekititamiko.com/devices/cine-nikkor-50mm-f1.8/</loc>
-    <lastmod>2022-04-10T12:41:24+09:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://kamekititamiko.com/2022/04/amami-drive/</loc>
     <lastmod>2022-04-10T12:41:24+09:00</lastmod>
   </url>
@@ -78,22 +123,7 @@
   </url>
   
   <url>
-    <loc>https://kamekititamiko.com/nature/</loc>
-    <lastmod>2022-04-10T08:48:59+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://kamekititamiko.com/devices/tascam-dr-100mk/</loc>
-    <lastmod>2022-04-10T08:48:59+09:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://kamekititamiko.com/2022/04/amamibird/</loc>
-    <lastmod>2022-04-10T08:48:59+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://kamekititamiko.com/tags/%E7%92%B0%E5%A2%83%E9%9F%B3/</loc>
     <lastmod>2022-04-10T08:48:59+09:00</lastmod>
   </url>
   
@@ -270,6 +300,10 @@
   
   <url>
     <loc>https://kamekititamiko.com/archives/2022/04/</loc>
+  </url>
+  
+  <url>
+    <loc>https://kamekititamiko.com/archives/2022/07/</loc>
   </url>
   
   <url>
