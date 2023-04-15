@@ -2,34 +2,76 @@
 
 var data = [
   {
+    url: "https://kamekititamiko.com/cycling/",
+    title: "Cycling",
+    date: "2022-09-23T15:05:05+09:00",
+    body: "Cycling"
+  },
+  {
+    url: "https://kamekititamiko.com/devices/",
+    title: "Devices",
+    date: "2022-09-23T15:05:05+09:00",
+    body: "Devices"
+  },
+  {
+    url: "https://kamekititamiko.com/devices/nikkor-s-auto-55mm-f1.2/",
+    title: "Nikkor-S Auto 55mm F1.2",
+    date: "2022-09-23T15:05:05+09:00",
+    body: "Nikkor-S Auto 55mm F1.2"
+  },
+  {
+    url: "https://kamekititamiko.com/regions/",
+    title: "Regions",
+    date: "2022-09-23T15:05:05+09:00",
+    body: "Regions"
+  },
+  {
+    url: "https://kamekititamiko.com/tags/",
+    title: "Tags",
+    date: "2022-09-23T15:05:05+09:00",
+    body: "Tags"
+  },
+  {
+    url: "https://kamekititamiko.com/tags/%E3%83%95%E3%82%A3%E3%83%AB%E3%83%A0%E5%86%99%E7%9C%9F/",
+    title: "フィルム写真",
+    date: "2022-09-23T15:05:05+09:00",
+    body: "フィルム写真"
+  },
+  {
+    url: "https://kamekititamiko.com/2022/09/shikoku/",
+    title: "四国半周サイクリング（高知→高松）五日間の旅",
+    date: "2022-09-23T15:05:05+09:00",
+    body: "四国半周サイクリング（高知→高松）五日間の旅 高知市から高松市まで、５日間の自転車ツーリング旅をしたときのコース図と写真を紹介。 コース図 Day1（9/23） 初日は高知市街からスタート。途中で土佐神社や竹林寺に寄り、香南市内を目的地にした合計47.4kmの比較的短いルートです。 その日は弁天座で気になっていたシンガーソングライターのライブがあったため、最終ゴール地点はライブ会場としても使われる歌舞伎施設・弁天座になってます。 \r\r\rDay2（9/24） 二日目は「道の駅やす」から東洋町のキャンプ場までの合計102.0kmのロングライド。起伏が少なく、見た目に反して負荷の小さい快適なルートでした。 \r\r\rDay3（9/25） 三日目は東洋町から阿南市内までの合計89.7kmのルート。 \r\r\rDay4（9/26） 四日目は阿南市から国分寺、徳島市内、鳴門のさつまいも畑を経由した、香川県東かがわ市までの91.4km。 \r\r\rDay5（9/27） 五日目の最終日は東かがわ市から高松市まで、36.6kmの短いルート。 \r\r\r写真 Day1（9/23） スタート地点の高知市街、高知大明神で出遭った鶏。市役所の敷地にもたむろしていた… 高知大神宮にて フィルム：KODAK ProImage 100　レンズ：Nikkor-S Auto 55mm F1.2　カメラ：Nikomat FT2 まずは市街を北上し、土佐神社へ。 土佐神社でひと休み 同伴者撮影のフィルム写真 土佐神社で一休み フィルム：KODAK ProImage 100　レンズ：Nikkor-S Auto 55mm F1.2　カメラ：Nikomat FT2 その由緒は古代にさかのぼるといわれる土佐神社。地元の方の信仰厚く、多く参拝されていました。 土佐神社 同伴者撮影のフィルム写真 土佐神社の次は、高知市街東側を南に横切る形で竹林寺へ。 竹林寺のある五台山山頂付近でいったん休憩。 五台山からの眺め 同伴者撮影のフィルム写真 竹林寺は、「日本三文殊」のひとつに数えられる文殊菩薩像が御本尊となっていることで有名なお寺。 庭園も名勝指定されています。京都・天龍寺庭園もてがけた夢窓国師の作庭とされているそう。 竹林寺庭園 同伴者撮影のフィルム写真 香南市を海岸沿いに走っていると、堤防の壁一面に地元の小学生たちによるイラストが描かれていました。 香南市の海岸にて 同伴者撮影のフィルム写真 香南市の海岸にて フィルム：KODAK ProImage 100　レンズ：Nikkor-S Auto 55mm F1.2　カメラ：Nikomat FT2 この日のゴール地点は弁天座。 弁天座 フィルム：KODAK ProImage 100　レンズ：Nikkor-S Auto 55mm F1.2　カメラ：Nikomat FT2 Day2（9/24） 二日目は香南市から室戸岬を経て東洋町のキャンプ場まで走るロングライド。 室戸岬手前に重要伝統的建造物群保存地区・吉良川の町並みがありました。白壁や水切り瓦が特徴的な建築物群。 ここで人生初のツーリング最中のパンクを経験。パニックになって大変だった… 吉良川の町並み フィルム：KODAK ProImage 100　レンズ：Nikkor-S Auto 55mm F1.2　カメラ：Nikomat FT2 ひたすら漕ぎつづけたので写真があまりなく、これは佐喜浜漁港付近で夕方頃にあらわれた光芒。 佐喜浜漁港にて スマートフォン撮影 東洋町まで、太平洋の景観がひたすらつづく長い道のり、民家も少ない静かなルートだったな。 東洋町までの長い道のり スマートフォン撮影 Day3（9/25） 三日目は東洋町のキャンプ場から南阿波サンラインや日和佐うみがめ博物館カレッタに立ち寄り、徳島県南部・阿南市へ。 朝のキャンプ場で撮影した写真。 朝のキャンプ場にて 同伴者撮影のフィルム写真 波打ち際を歩くカニ フィルム：KODAK ProImage 100　レンズ：Nikkor-S Auto 55mm F1.2　カメラ：Nikomat FT2 四国サイクリングロードに指定されている南阿波サンラインは起伏が激しくハードなコース。 国道沿いにトンネルで回避するルートもありましたが、展望台からの眺めを見たくてハードなコースを選択。 南阿波サンラインにて記念写真 フィルム：KODAK ProImage 100　レンズ：Nikkor-S Auto 55mm F1.2　カメラ：Nikomat FT2 南阿波サンラインにて記念写真 スマートフォン撮影 日和佐うみがめ博物館カレッタは、全国的にも珍しいウミガメ専門の博物館。そばの砂浜では毎年ウミガメが産卵するそうですが、ここ十数年の間に産卵数は激減。様々な原因があるようですが、その多くは人的要因によるものと考えられます。残念で仕方ありません。 館内ではヌマガメも少数飼育されています。面白い写真が撮れました。 見つめあうカメ フィルム：KODAK ProImage 100　レンズ：Nikkor-S Auto 55mm F1.2　カメラ：Nikomat FT2 ここでは流れ着いたウミガメの保護に取り組んでいて、屋外の水槽で涼しそうに泳ぐウミガメをものすごく近くから観察できます。 ウミガメ スマートフォン撮影 Day4（9/26） 四日目は、阿南市から阿波国分寺や徳島市街地、鳴門さつまいも畑を抜け、瀬戸内海方面に入って東かがわ市内キャンプ場をゴールにしたロングライド。 阿波国分寺は、桃山時代に築かれた豪快な枯山水庭園が圧巻の国指定名勝庭園。少し前に調査が実施され、日本の造園界で一躍脚光を浴びたそう。徳島城庭園と同じ作庭チームによって築かれたと考えられています。 その徳島城庭園は丁度閉園日で入れませんでした… 建物の脇に確かに枯滝組が気付かれていることが確認できますね。 阿波国分寺 同伴者撮影のフィルム写真 阿波国分寺 同伴者撮影のフィルム写真 阿波国分寺や徳島市街でゆっくりしたので、瀬戸内方面に着くころには日も暮れかかっていました。 瀬戸内海の夕暮れ スマートフォン撮影 Day5（9/27） 五日目は東かがわ市から高松市までの短いコースだったので、うどん屋めぐりに興じました。 これは早朝に行ったうどん屋さん、吉本食品。昼間は並ぶほどの人気店みたいですが、朝はお客さんが少なく、すぐにうどんが提供されました。 昆布だしが美味しかったな… 吉本食品 同伴者撮影のフィルム写真 吉本食品のうどん スマートフォン撮影 これはお昼ご飯に立ち寄ったうどん屋さん、牟礼製麺。 香川のうどん屋さんはどこも美味しい。 牟礼製麺 スマートフォン撮影 牟礼製麺のうどん スマートフォン撮影"
+  },
+  {
+    url: "https://kamekititamiko.com/regions/%E5%BE%B3%E5%B3%B6/",
+    title: "徳島",
+    date: "2022-09-23T15:05:05+09:00",
+    body: "徳島"
+  },
+  {
+    url: "https://kamekititamiko.com/regions/%E9%A6%99%E5%B7%9D/",
+    title: "香川",
+    date: "2022-09-23T15:05:05+09:00",
+    body: "香川"
+  },
+  {
+    url: "https://kamekititamiko.com/regions/%E9%AB%98%E7%9F%A5/",
+    title: "高知",
+    date: "2022-09-23T15:05:05+09:00",
+    body: "高知"
+  },
+  {
     url: "https://kamekititamiko.com/devices/cine-nikkor-50mm-f1.8/",
     title: "Cine Nikkor 50mm f1.8",
     date: "2022-08-15T16:18:54+09:00",
     body: "Cine Nikkor 50mm f1.8"
   },
   {
-    url: "https://kamekititamiko.com/devices/",
-    title: "Devices",
-    date: "2022-08-15T16:18:54+09:00",
-    body: "Devices"
-  },
-  {
     url: "https://kamekititamiko.com/nature/",
     title: "Nature",
     date: "2022-08-15T16:18:54+09:00",
     body: "Nature"
-  },
-  {
-    url: "https://kamekititamiko.com/regions/",
-    title: "Regions",
-    date: "2022-08-15T16:18:54+09:00",
-    body: "Regions"
-  },
-  {
-    url: "https://kamekititamiko.com/tags/",
-    title: "Tags",
-    date: "2022-08-15T16:18:54+09:00",
-    body: "Tags"
   },
   {
     url: "https://kamekititamiko.com/devices/tascam-dr-100mk/",
@@ -66,18 +108,6 @@ var data = [
     title: "京都",
     date: "2022-07-31T23:57:12+09:00",
     body: "京都"
-  },
-  {
-    url: "https://kamekititamiko.com/cycling/",
-    title: "Cycling",
-    date: "2022-04-30T12:06:45+09:00",
-    body: "Cycling"
-  },
-  {
-    url: "https://kamekititamiko.com/devices/nikkor-s-auto-55mm-f1.2/",
-    title: "Nikkor-S Auto 55mm F1.2",
-    date: "2022-04-30T12:06:45+09:00",
-    body: "Nikkor-S Auto 55mm F1.2"
   },
   {
     url: "https://kamekititamiko.com/tags/%E5%AF%BA%E7%A4%BE%E5%B7%A1%E3%82%8A/",
@@ -326,12 +356,6 @@ var data = [
     body: "【環境音】赤穂御崎・福浦海水浴場の波の音 赤穂御崎の福浦海水浴場で録音した波の音をYOUTUBEにアップしたので、紹介します。 勉強や読書のBGMとして使ってください。 撮影地付近の写真 ロードバイクで姫路駅から録音場所まで走ったのですが、起伏が激しく良い運動になりました。 坂越港フィルム：KODAK ULTRAMAX 400　レンズ：New Nikkor 50mm f2.0　カメラ：Nikomat FT2 大塚古墳フィルム：KODAK ULTRAMAX 400　レンズ：New Nikkor 50mm f2.0　カメラ：Nikomat FT2 赤穂御崎の福浦海水浴場フィルム：KODAK ULTRAMAX 400　レンズ：New Nikkor 50mm f2.0　カメラ：Nikomat FT2 赤穂駅フィルム：KODAK ULTRAMAX 400　レンズ：New Nikkor 50mm f2.0　カメラ：Nikomat FT2"
   },
   {
-    url: "https://kamekititamiko.com/tags/%E3%83%95%E3%82%A3%E3%83%AB%E3%83%A0%E5%86%99%E7%9C%9F/",
-    title: "フィルム写真",
-    date: "2021-02-13T23:48:59+09:00",
-    body: "フィルム写真"
-  },
-  {
     url: "https://kamekititamiko.com/regions/%E5%85%B5%E5%BA%AB/",
     title: "兵庫",
     date: "2021-02-13T23:48:59+09:00",
@@ -390,6 +414,12 @@ var data = [
     title: "2022/08",
     date: "0001-01-01T00:00:00Z",
     body: "2022/08"
+  },
+  {
+    url: "https://kamekititamiko.com/archives/2022/09/",
+    title: "2022/09",
+    date: "0001-01-01T00:00:00Z",
+    body: "2022/09"
   },
   {
     url: "https://kamekititamiko.com/archives/",

@@ -3,27 +3,62 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://kamekititamiko.com/cycling/</loc>
+    <lastmod>2022-09-23T15:05:05+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://kamekititamiko.com/devices/</loc>
+    <lastmod>2022-09-23T15:05:05+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://kamekititamiko.com/devices/nikkor-s-auto-55mm-f1.2/</loc>
+    <lastmod>2022-09-23T15:05:05+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://kamekititamiko.com/regions/</loc>
+    <lastmod>2022-09-23T15:05:05+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://kamekititamiko.com/tags/</loc>
+    <lastmod>2022-09-23T15:05:05+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://kamekititamiko.com/tags/%E3%83%95%E3%82%A3%E3%83%AB%E3%83%A0%E5%86%99%E7%9C%9F/</loc>
+    <lastmod>2022-09-23T15:05:05+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://kamekititamiko.com/2022/09/shikoku/</loc>
+    <lastmod>2022-09-23T15:05:05+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://kamekititamiko.com/regions/%E5%BE%B3%E5%B3%B6/</loc>
+    <lastmod>2022-09-23T15:05:05+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://kamekititamiko.com/regions/%E9%A6%99%E5%B7%9D/</loc>
+    <lastmod>2022-09-23T15:05:05+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://kamekititamiko.com/regions/%E9%AB%98%E7%9F%A5/</loc>
+    <lastmod>2022-09-23T15:05:05+09:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://kamekititamiko.com/devices/cine-nikkor-50mm-f1.8/</loc>
     <lastmod>2022-08-15T16:18:54+09:00</lastmod>
   </url>
   
   <url>
-    <loc>https://kamekititamiko.com/devices/</loc>
-    <lastmod>2022-08-15T16:18:54+09:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://kamekititamiko.com/nature/</loc>
-    <lastmod>2022-08-15T16:18:54+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://kamekititamiko.com/regions/</loc>
-    <lastmod>2022-08-15T16:18:54+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://kamekititamiko.com/tags/</loc>
     <lastmod>2022-08-15T16:18:54+09:00</lastmod>
   </url>
   
@@ -55,16 +90,6 @@
   <url>
     <loc>https://kamekititamiko.com/regions/%E4%BA%AC%E9%83%BD/</loc>
     <lastmod>2022-07-31T23:57:12+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://kamekititamiko.com/cycling/</loc>
-    <lastmod>2022-04-30T12:06:45+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://kamekititamiko.com/devices/nikkor-s-auto-55mm-f1.2/</loc>
-    <lastmod>2022-04-30T12:06:45+09:00</lastmod>
   </url>
   
   <url>
@@ -273,11 +298,6 @@
   </url>
   
   <url>
-    <loc>https://kamekititamiko.com/tags/%E3%83%95%E3%82%A3%E3%83%AB%E3%83%A0%E5%86%99%E7%9C%9F/</loc>
-    <lastmod>2021-02-13T23:48:59+09:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://kamekititamiko.com/regions/%E5%85%B5%E5%BA%AB/</loc>
     <lastmod>2021-02-13T23:48:59+09:00</lastmod>
   </url>
@@ -318,6 +338,10 @@
   
   <url>
     <loc>https://kamekititamiko.com/archives/2022/08/</loc>
+  </url>
+  
+  <url>
+    <loc>https://kamekititamiko.com/archives/2022/09/</loc>
   </url>
   
   <url>
